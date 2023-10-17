@@ -26,7 +26,7 @@ aka Deuteronomy 32 Worldview
     [![‹Amazon Kindle›](../icons/kindle.webp)](https://www.amazon.com/Angels-Bible-Really-About-Heavenly-ebook/dp/B07GJWPXC3/)
     [![‹Logos›](../icons/logos.webp)](https://www.logos.com/product/148914/angels-what-the-bible-really-says-about-gods-heavenly-host)
     - video series (2:30)
-        [![‹YouTube›](../icons/youtube.webp)](https://www.youtube.com/playlist?list=PLXkjd_l1xkSR5QikgFJQUoJpzK_4PXQWS)
+        [![‹YouTube›](../icons/youtube.webp)](https://www.youtube.com/playlist?list=PLXkjd_l1xkSR54qBf18i3TFoZDCf4XQl2)
         [![‹FaithlifeTV›](../icons/faithlife_tv.webp)](https://faithlifetv.com/media/898709)
 - <cite>Demons: What the Bible Really Says About the Powers of Darkness</cite>
     [![‹Amazon Kindle›](../icons/kindle.webp)](https://www.amazon.com/Demons-Bible-Really-Powers-Darkness-ebook/dp/B088C559H7/)
