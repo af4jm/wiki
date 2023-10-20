@@ -1,6 +1,6 @@
 # Divine Council Worldview resources
 
-aka [Deuteronomy 32](https://www.biblegateway.com/passage/?search=Deuteronomy%2032&version=LEB) Worldview
+aka [Deuteronomy 32](https://www.biblegateway.com/passage/?search=Deuteronomy%2032&version=ESV) Worldview
 
 <small>(icons are links to buy books or watch videos)</small>
 
