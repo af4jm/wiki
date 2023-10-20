@@ -1,6 +1,6 @@
 # Divine Council Worldview resources
 
-aka Deuteronomy 32 Worldview
+aka [Deuteronomy 32](https://www.biblegateway.com/passage/?search=Deuteronomy+32) Worldview
 
 <small>(icons are links to buy books or watch videos)</small>
 
@@ -9,10 +9,10 @@ aka Deuteronomy 32 Worldview
 - <cite>*The Unseen Realm: Recovering the Supernatural Worldview of the Bible*</cite>
     [![‹Amazon Kindle›](../icons/kindle.webp)](https://www.amazon.com/Unseen-Realm-Recovering-Supernatural-Worldview-ebook/dp/B0141QB9XA/)
     [![‹Logos›](../icons/logos.webp)](https://www.logos.com/product/49583/the-unseen-realm-recovering-the-supernatural-worldview-of-the-bible)
-    - movie (1:12)
+    - movie <small>(<time datetime="PT1H12M">1:12</time>)</small>
         [![‹YouTube›](../icons/youtube.webp)](https://www.youtube.com/watch?v=2QM7anD5vSI)
         [![‹FaithlifeTV›](../icons/faithlife_tv.webp)](https://faithlifetv.com/media/701635)
-    - Q&A (1:14)
+    - Q&A <small>(<time datetime="PT1H14M">1:14</time>)</small>
         [![‹YouTube›](../icons/youtube.webp)](https://www.youtube.com/watch?v=oHXLnxlpZ1s)
         [![‹FaithlifeTV›](../icons/faithlife_tv.webp)](https://faithlifetv.com/media/695391)
 - <cite>*Supernatural: What the Bible Teaches about the Unseen World—And Why It Matters*</cite>
@@ -25,19 +25,20 @@ aka Deuteronomy 32 Worldview
 - <cite>*Angels: What the Bible Really Says About God’s Heavenly Host*</cite>
     [![‹Amazon Kindle›](../icons/kindle.webp)](https://www.amazon.com/Angels-Bible-Really-About-Heavenly-ebook/dp/B07GJWPXC3/)
     [![‹Logos›](../icons/logos.webp)](https://www.logos.com/product/148914/angels-what-the-bible-really-says-about-gods-heavenly-host)
-    - video series (2:30)
+    - video series <small>(<time datetime="PT2H30M">2:30</time>)</small>
         [![‹YouTube›](../icons/youtube.webp)](https://www.youtube.com/playlist?list=PLXkjd_l1xkSR54qBf18i3TFoZDCf4XQl2)
         [![‹FaithlifeTV›](../icons/faithlife_tv.webp)](https://faithlifetv.com/media/898709)
 - <cite>*Demons: What the Bible Really Says About the Powers of Darkness*</cite>
     [![‹Amazon Kindle›](../icons/kindle.webp)](https://www.amazon.com/Demons-Bible-Really-Powers-Darkness-ebook/dp/B088C559H7/)
     [![‹Logos›](../icons/logos.webp)](https://www.logos.com/product/178154/demons-what-the-bible-really-says-about-the-powers-of-darkness)
-    - movie (:45)
+    - movie <small>(<time datetime="PT45M">:45</time>)</small>
         [![‹YouTube›](../icons/youtube.webp)](https://www.youtube.com/watch?v=H41Lw2YEY74)
         [![‹FaithlifeTV›](../icons/faithlife_tv.webp)](https://faithlifetv.com/media/769727)
 
 ### related videos
 
-- [Divine Council intro](https://nakedbiblepodcast.com/newstarthere/) from “The Naked Bible Podcast” site
+- [Divine Council intro](https://nakedbiblepodcast.com/newstarthere/) from “The Naked Bible Podcast” site <small>(<time datetime="PT4H37M">4:37</time>)</small>
 - YouTube playlists
-    - [Unseen Realm 101](https://www.youtube.com/playlist?list=PL9-E3d1xt1O6W7NjDlqsZ18jSOvKMxqpZ) (<time datetime="PT18M">:18</time>)
-    - [Supernatural Seminar: What the Bible Says About the Unseen Realm](https://www.youtube.com/playlist?list=PL9-E3d1xt1O5zI2xExz8gGUoQjvhUtN9x) (<time datetime="PT4H37M">4:37</time>)
+    - [Unseen Realm 101](https://www.youtube.com/playlist?list=PL9-E3d1xt1O6W7NjDlqsZ18jSOvKMxqpZ) <small>(<time datetime="PT18M">:18</time>)</small>
+    - [Supernatural Seminar: What the Bible Says About the Unseen Realm](https://www.youtube.com/playlist?list=PL9-E3d1xt1O5zI2xExz8gGUoQjvhUtN9x) <small>(<time datetime="PT4H37M">4:37</time>)</small>
+    - [Animated videos](https://www.youtube.com/playlist?list=PLwfjUxja_BKfwvToPOvJensysS-PEup_f) <small>(<time datetime="PT45M">:45</time>)</small>
