@@ -37,7 +37,7 @@ aka [Deuteronomy 32](https://www.biblegateway.com/passage/?search=Deuteronomy%20
 
 ### related videos
 
-- [Divine Council intro](https://nakedbiblepodcast.com/newstarthere/) from “The Naked Bible Podcast” site <small>(<time datetime="PT4H37M">4:37</time>)</small>
+- [Divine Council intro](https://nakedbiblepodcast.com/newstarthere/) from “The Naked Bible Podcast” site
 - YouTube playlists
     - [Unseen Realm 101](https://www.youtube.com/playlist?list=PL9-E3d1xt1O6W7NjDlqsZ18jSOvKMxqpZ) <small>(<time datetime="PT18M">:18</time>)</small>
     - [Supernatural Seminar: What the Bible Says About the Unseen Realm](https://www.youtube.com/playlist?list=PL9-E3d1xt1O5zI2xExz8gGUoQjvhUtN9x) <small>(<time datetime="PT4H37M">4:37</time>)</small>
