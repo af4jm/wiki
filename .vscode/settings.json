@@ -1,0 +1,138 @@
+{
+    "editor.acceptSuggestionOnEnter": "off",
+    "editor.detectIndentation": false,
+    "editor.fontFamily": "'Noto Sans Mono', Consolas, 'Courier New', monospace",
+    "editor.fontVariations": "tabular-nums slashed-zero historical-forms no-common-ligatures no-discretionary-ligatures no-historical-ligatures",
+    "editor.glyphMargin": false,
+    "editor.insertSpaces": true,
+    "editor.largeFileOptimizations": true,
+    "editor.pasteAs.enabled": true,
+    "editor.snippetSuggestions": "bottom",
+    "editor.suggestSelection": "recentlyUsedByPrefix",
+    "editor.tabCompletion": "onlySnippets",
+    "editor.unicodeHighlight.invisibleCharacters": true,
+    "editor.wordWrap": "on",
+    "editor.wrappingIndent": "indent",
+    "explorer.copyRelativePathSeparator": "/",
+    "explorer.fileNesting.enabled": true,
+    "explorer.fileNesting.expand": true,
+    "explorer.fileNesting.patterns": {
+        "*": "${basename}.*"
+    },
+    "files.associations": {
+        ".spellignore": "gitignore",
+        "*.xht": "xml",
+        "*.snippet": "snippet",
+        "*.xhtml": "xml"
+    },
+    "files.eol": "\r\n",
+    "files.trimTrailingWhitespace": true,
+    "markdown.editor.pasteUrlAsFormattedLink.enabled": "smart",
+    "markdown.preferredMdPathExtensionStyle": "includeExtension",
+    "markdown.suggest.paths.includeWorkspaceHeaderCompletions": "onSingleOrDoubleHash",
+    "markdown.validate.enabled": true,
+    "markdown.validate.fileLinks.enabled":"error",
+    "markdown.validate.fileLinks.markdownFragmentLinks": "error",
+    "markdown.validate.fragmentLinks.enabled": "error",
+    "markdown.validate.ignoredLinks": [
+        "logos4:*",
+        "logosres:*",
+        "zotero:*"
+    ],
+    "markdown.validate.referenceLinks.enabled": "ignore",
+    "markdown-mermaid.darkModeTheme": "neutral",
+    "markdown-mermaid.lightModeTheme": "neutral",
+    "markdownlint.config": {
+        "extends": ".markdownlint.json"
+    },
+    "markdownlint.customRules": [
+        "./node_modules/markdownlint-rule-olstart/rule.js"
+    ],
+    "markdownShortcuts.bold.marker": "**",
+    "markdownShortcuts.bullets.marker": "-",
+    "markdownShortcuts.italics.marker": "*",
+    "markdownShortcuts.icons.bold": false,
+    "markdownShortcuts.icons.bullets": false,
+    "markdownShortcuts.icons.citations": false,
+    "markdownShortcuts.icons.image": false,
+    "markdownShortcuts.icons.italic": false,
+    "markdownShortcuts.icons.link": false,
+    "markdownShortcuts.icons.strikethrough": false,
+    "markdownShortcuts.languages": [
+        "markdown"
+    ],
+    "peacock.color": "#509ee5",
+    "search.exclude": {
+        ".vscode/**": false,
+        "node_modules/**": true,
+        "desktop.ini": true
+    },
+    "search.useIgnoreFiles": true,
+    "spellright.addToSystemDictionary": false,
+    "spellright.configurationUpdate": false,
+    "spellright.documentTypes": [
+        "markdown"
+    ],
+    "spellright.groupDictionaries": true,
+    "spellright.ignoreRegExpsByClass": {
+        "markdown": [
+            "/(\\.?)(gif|jpg|md|pdf|png)/g",
+            "/&(amp|gt|lt|nbsp);/g"
+        ],
+    },
+    "spellright.language": [
+        "en",
+        "es",
+        "el",
+        "he"
+    ],
+    "spellright.notificationClass": "warning",
+    "terminal.integrated.hideOnStartup": "always",
+    "workbench.colorCustomizations": {
+        "activityBar.activeBackground": "#7cb7ec",
+        "activityBar.background": "#7cb7ec",
+        "activityBar.foreground": "#15202b",
+        "activityBar.inactiveForeground": "#15202b99",
+        "activityBarBadge.background": "#df2085",
+        "activityBarBadge.foreground": "#e7e7e7",
+        "commandCenter.border": "#15202b99",
+        "sash.hoverBorder": "#7cb7ec",
+        "statusBar.background": "#509ee5",
+        "statusBar.foreground": "#15202b",
+        "statusBarItem.hoverBackground": "#2485de",
+        "statusBarItem.remoteBackground": "#509ee5",
+        "statusBarItem.remoteForeground": "#15202b",
+        "titleBar.activeBackground": "#509ee5",
+        "titleBar.activeForeground": "#15202b",
+        "titleBar.inactiveBackground": "#509ee599",
+        "titleBar.inactiveForeground": "#15202b99"
+    },
+    "workbench.editor.autoLockGroups": {
+        "mainThreadWebview-markdown.preview": true
+    },
+    "workbench.editor.preventPinnedEditorClose": "keyboardAndMouse",
+    "[html]": {
+        "editor.fontFamily": "'Noto Sans', 'Droid Sans', Ariel, sans-serif",
+        "editor.fontSize": 14,
+        "editor.fontVariations": "tabular-nums slashed-zero historical-forms no-common-ligatures no-discretionary-ligatures no-historical-ligatures",
+        "editor.quickSuggestions": {
+            "comments": "off",
+            "strings": "off",
+            "other": "off"
+        },
+        "editor.unicodeHighlight.invisibleCharacters": true,
+        "editor.wrappingStrategy": "advanced"
+    },
+    "[markdown]": {
+        "editor.fontFamily": "'Noto Sans', 'Droid Sans', Ariel, sans-serif",
+        "editor.fontSize": 14,
+        "editor.fontVariations": "tabular-nums slashed-zero historical-forms no-common-ligatures no-discretionary-ligatures no-historical-ligatures",
+        "editor.quickSuggestions": {
+            "comments": "off",
+            "strings": "off",
+            "other": "off"
+        },
+        "editor.unicodeHighlight.invisibleCharacters": true,
+        "editor.wrappingStrategy": "advanced"
+    }
+}
