@@ -22,7 +22,7 @@ aka [Deuteronomy 32](https://www.biblegateway.com/passage/?search=Deuteronomy%20
 - <cite>Reversing Hermon: Enoch, the Watchers, and the Forgotten Mission of Jesus Christ</cite>
     [![‹Amazon Kindle›](../icons/kindle.webp)](https://www.amazon.com/Reversing-Hermon-Watchers-Forgotten-Mission-ebook/dp/B0723B2Z4S/)
     [![‹Logos›](../icons/logos.webp)](https://www.logos.com/product/144076/reversing-hermon-enoch-the-watchers-and-the-forgotten-mission-of-jesus-christ)
-- <cite>*Angels: What the Bible Really Says About God’s Heavenly Host*</cite>
+- <cite>Angels: What the Bible Really Says About God’s Heavenly Host</cite>
     [![‹Amazon Kindle›](../icons/kindle.webp)](https://www.amazon.com/Angels-Bible-Really-About-Heavenly-ebook/dp/B07GJWPXC3/)
     [![‹Logos›](../icons/logos.webp)](https://www.logos.com/product/148914/angels-what-the-bible-really-says-about-gods-heavenly-host)
     - video series <small>(<time datetime="PT2H30M">2:30</time>)</small>
