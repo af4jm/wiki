@@ -45,9 +45,6 @@
     "markdownlint.config": {
         "extends": ".markdownlint.json"
     },
-    "markdownlint.customRules": [
-        "./node_modules/markdownlint-rule-olstart/rule.js"
-    ],
     "markdownShortcuts.bold.marker": "**",
     "markdownShortcuts.bullets.marker": "-",
     "markdownShortcuts.italics.marker": "*",
