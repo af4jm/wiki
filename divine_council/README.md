@@ -1,8 +1,8 @@
 # Divine Council Worldview resources
 
-aka [Deuteronomy 32](https://www.biblegateway.com/passage/?search=Deuteronomy%2032&version=ESV) Worldview
+aka [Deuteronomy 32](https://netbible.org/bible/Deuteronomy+32) Worldview
 
-<small>(icons are links to buy books or watch videos)</small>
+<small>(icons are links to watch videos or purchase books)</small>
 
 ## Books by Dr. Michael Heiser
 
