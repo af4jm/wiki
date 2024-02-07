@@ -1,0 +1,589 @@
+$markdown-font-family: var(--markdown-font-family);
+$markdown-font-family-serif: var(--markdown-font-family-serif);
+$markdown-font-family-mono: var(--markdown-font-family-mono);
+$vscode-editor-foreground: var(--vscode-editor-foreground);
+$h1-foreground: hsla($vscode-editor-foreground, 1.20);
+$h2-foreground: hsla($vscode-editor-foreground, 1.17);
+$h3-foreground: hsla($vscode-editor-foreground, 1.14);
+$h4-foreground: hsla($vscode-editor-foreground, 1.11);
+$h5-foreground: hsla($vscode-editor-foreground, 1.08);
+$h6-foreground: hsla($vscode-editor-foreground, 1.05);
+$external-link-color: var(--external-link-color);
+$internal-link-color: var(--internal-link-color);
+$logos-link-color: var(--logos-link-color);
+$zotero-link-color: var(--zotero-link-color);
+$_-tag-color: var(--_-tag-color);
+$at-tag-color: var(--at-tag-color);
+$plus-tag-color: var(--plus-tag-color);
+$dollar-tag-color: var(--dollar-tag-color);
+$bible-tag-color: var(--bible-tag-color);
+$lang-tag-color: var(--lang-tag-color);
+$lang-tag-code-color: var(--lang-tag-code-color);
+$reading-tag-color: var(--reading-tag-color);
+$sport-tag-color: var(--sport-tag-color);
+$highlight-background-color: var(--highlight-background-color);
+$table-border-color: var(--table-border-color);
+
+@import "https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,400;0,700;1,400&display=swap";
+@import "https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,400;0,700;1,400&display=swap";
+@import "https://fonts.googleapis.com/css2?family=Noto+Serif+Hebrew:ital,wght@0,400;0,700;1,400&display=swap";
+@import "https://fonts.googleapis.com/css2?family=Noto+Sans+Mono:ital,wght@0,400;0,700;1,400&display=swap";
+
+&:root {
+    --markdown-font-family: 'Noto Sans', 'Droid Sans', sans-serif;
+    --markdown-font-family-serif: 'Noto Serif', 'Droid Serif', serif;
+    --markdown-font-family-mono: 'Noto Sans Mono', 'Droid Mono', monospace;
+
+    --markdown-font-variant: tabular-nums slashed-zero historical-forms no-common-ligatures no-discretionary-ligatures no-historical-ligatures;
+
+    --vscode-editor-foreground: #cccccc;
+    --highlight-background-color: hsl(0, 0%, 8%) !important;
+    --table-border-color: gray;
+
+    --external-link-color: #0077ee;
+    --internal-link-color: #77b2ee;
+    --logos-link-color: #509ee5;
+    --zotero-link-color: red;
+    --_-tag-color: fuchsia !important;
+    --at-tag-color: orangered !important;
+    --plus-tag-color: cyan !important;
+    --dollar-tag-color: yellow !important;
+    --tickler-tag-color: skyblue !important;
+    --bible-tag-color: mistyrose !important;
+    --lang-tag-color: khaki !important;
+    --lang-tag-code-color: darkkhaki !important;
+    --reading-tag-color: lightgray !important;
+    --sport-tag-color: palegreen !important;
+}
+
+html,
+body {
+    font-family: $markdown-font-family;
+    font-synthesis: weight style small-caps;
+    font-variant: var(--markdown-font-variant);
+    text-align: justify;
+    text-justify: auto;
+}
+
+.hidden {
+    display: none;
+}
+
+.inline {
+    display: inline-block;
+}
+
+h1 {
+    break-after: avoid;
+    -webkit-break-after: avoid;
+    page-break-after: avoid;
+    color: $h1-foreground;
+    font-size: 2rem;
+}
+
+h2 {
+    break-after: avoid;
+    -webkit-break-after: avoid;
+    page-break-after: avoid;
+    color: $h2-foreground;
+    font-size: 1.84rem;
+}
+
+h3 {
+    break-after: avoid;
+    -webkit-break-after: avoid;
+    page-break-after: avoid;
+    color: $h3-foreground;
+    font-size: 1.68rem;
+}
+
+h4 {
+    break-after: avoid;
+    -webkit-break-after: avoid;
+    page-break-after: avoid;
+    color: $h4-foreground;
+    font-size: 1.52rem;
+}
+
+h5 {
+    break-after: avoid;
+    -webkit-break-after: avoid;
+    page-break-after: avoid;
+    color: $h5-foreground;
+    font-size: 1.36rem;
+}
+
+h6 {
+    break-after: avoid;
+    -webkit-break-after: avoid;
+    page-break-after: avoid;
+    color: $h6-foreground;
+    font-size: 1.20rem;
+}
+
+blockquote {
+    background-color: $highlight-background-color;
+    border-color: $highlight-background-color;
+}
+
+pre {
+    text-align: left;
+}
+
+figure {
+    display: table;
+}
+
+figcaption {
+    display: table-caption;
+    caption-side: bottom;
+}
+
+table {
+    display: table;
+    border-collapse: collapse;
+    width: inherit;
+    font-variant: var(--markdown-font-variant);
+    vertical-align: top;
+    font-size: inherit;
+    break-inside: avoid;
+    page-break-inside: avoid;
+}
+
+colgroup {
+    display: table-column-group;
+}
+
+col {
+    display: table-column;
+}
+
+thead {
+    display: table-header-group;
+}
+
+tbody {
+    display: table-row-group;
+}
+
+tfoot {
+    display: table-footer-group;
+}
+
+tr {
+    display: table-row;
+}
+
+th,
+td {
+    display: table-cell;
+    font-variant: var(--markdown-font-variant);
+    vertical-align: top;
+    font-size: inherit;
+    break-inside: avoid;
+    page-break-inside: avoid;
+}
+
+table.box {
+    width: 100%;
+    border-style: solid;
+    border-width: 1px;
+    border-color: $table-border-color;
+}
+
+table.border {
+    width: 100%;
+    border-style: inset;
+    border-width: 1px;
+    border-color: $table-border-color;
+
+    th,
+    td {
+        border-style: outset;
+        border-width: 1px;
+        border-color: $table-border-color;
+    }
+}
+
+table.borderless {
+    width: 100%;
+    border-style: none;
+    border-width: 0;
+
+    tr,
+    th,
+    td {
+        border-style: none;
+        border-width: 0;
+    }
+}
+
+.mermaid {
+    width: 100%;
+}
+
+.half {
+    width: 50%;
+}
+
+.third {
+    width: 33%;
+}
+
+.two-thirds {
+    width: 67%;
+}
+
+.quarter {
+    width: 25%;
+}
+
+.sixth {
+    width: 17%;
+}
+
+a {
+    &:any-link {
+        text-decoration: none;
+    }
+
+    &:not([href]) {
+        color: inherit;
+    }
+}
+
+a[href] {
+    color: $external-link-color;
+}
+
+a[href^="."],
+a[href^="#"] {
+    color: $internal-link-color;
+}
+
+a[href^="logos"],
+a[href^="https://ref.ly/logos"] {
+    color: $logos-link-color;
+}
+
+a[href="#"] {
+    color: $zotero-link-color;
+}
+
+a[href^="."][href*="/tag/"] {
+    &:not([href$="tag/README.md"]) {
+        display: inline-block;
+        padding: 0 .5em;
+        border-radius: 1em;
+        border-style: solid;
+        border-width: 2px;
+    }
+}
+
+a[href^="."][href*="/tag/_"] {
+    color: $_-tag-color;
+}
+
+a[href^="."][href*="/tag/@"] {
+    color: $at-tag-color;
+}
+
+a[href^="."][href*="/tag/+"] {
+    color: $plus-tag-color;
+}
+
+a[href^="."][href*="/tag/$"],
+a[href^="."][href*="/tag/to_"]
+a[href^="."][href*="/tag/in_progress"],
+a[href^="."][href*="/tag/_tickler"] {
+    color: $dollar-tag-color;
+}
+
+a[href^="."][href*="/tag/jesus/bible/"] {
+    color: $bible-tag-color;
+}
+
+a[href^="."][href*="/tag/lang/"] {
+    &:not([href$="lang/README.md"]) {
+        color: $lang-tag-color;
+
+        code {
+            color: $lang-tag-code-color;
+            background-color: inherit !important;
+        }
+    }
+}
+
+a[href^="."][href*="/tag/jesus/logos"],
+a[href^="."][href*="/tag/kindle"] {
+    color: $reading-tag-color;
+}
+
+a[href^="."][href*="/tag/sport/football/"] {
+    &:not([href$="football/README.md"]) {
+        color: $sport-tag-color;
+    }
+}
+
+a[href^="."][href*="/tag/sport/motor/"] {
+    &:not([href$="motor/README.md"]) {
+    &:not([href$="motor/enduro.md"]) {
+    &:not([href$="motor/short.md"]) {
+        color: $sport-tag-color;
+    }}}
+}
+
+a[href^="."][href*="/tag/sport/soccer/"] {
+    &:not([href$="soccer/README.md"]) {
+        color: $sport-tag-color;
+    }
+}
+
+*[lang]{
+    &:not(:lang(en)) {
+        font-family: $markdown-font-family-serif;
+        font-style: italic;
+    }
+
+    cite,
+    em,
+    i {
+        font-style: normal;
+    }
+}
+
+/* italics inside of italics should not be italicized */
+cite,
+em,
+i {
+    *[lang]
+    cite,
+    em,
+    i {
+        font-style: normal;
+    }
+}
+
+/* non-Latin characters: no italics */
+&:lang(akk),
+&:lang(ara),
+&:lang(arc),
+&:lang(cop),
+&:lang(egy),
+&:lang(elx),
+&:lang(gez),
+&:lang(grc),
+&:lang(hbo),
+&:lang(he),
+&:lang(hit),
+&:lang(peo),
+&:lang(phn),
+&:lang(sux),
+&:lang(syc),
+&:lang(uga) {
+    font-style: inherit !important;
+}
+
+abbr {
+    filter: brightness(75%);
+
+    code {
+        color: inherit;
+    }
+}
+
+.dim {
+    filter: brightness(75%);
+}
+
+abbr[title] {
+    math,
+    span.math,
+    span.katex {
+        text-decoration: underline dotted;
+    }
+}
+
+[data-link] {
+    text-decoration: underline dotted;
+}
+
+.Bible {
+    font-family: $markdown-font-family-serif;
+    filter: brightness(110%);
+}
+
+abbr.lang {
+    font-family: $markdown-font-family-mono;
+}
+
+.caps {
+    font-variant-caps: small-caps;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.smaller {
+    font-size: smaller;
+}
+
+.larger {
+    font-size: larger;
+}
+
+.left {
+    text-align: left;
+}
+
+.center {
+    text-align: center;
+}
+
+.right {
+    text-align: right;
+}
+
+.middle {
+    vertical-align: middle;
+}
+
+.floatstart {
+    float: left;
+    margin-right: 1em;
+}
+
+.floatend {
+    float: right;
+    margin-left: 1em;
+}
+
+.clear {
+    clear: both;
+}
+
+.clearl {
+    clear: left;
+}
+
+.clearr {
+    clear: right;
+}
+
+.under {
+    text-decoration: underline;
+}
+
+.over {
+    text-decoration: overline;
+}
+
+.invert {
+    background-color: White;
+    display: block;
+}
+
+.circle {
+    display: inline-block;
+    padding-inline: 0;
+    padding-block: 1px;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 1em;
+}
+
+.square {
+    display: inline-block;
+    padding-inline: 0;
+    padding-block: 1px;
+    border-style: solid;
+    border-width: 1px;
+}
+
+.nowrap {
+    white-space: nowrap;
+}
+
+.avoidbreak {
+    break-inside: avoid;
+}
+
+.columns {
+    column-gap: 0;
+    column-rule-style: none;
+}
+
+.columnsRuled {
+    column-gap: normal;
+    column-rule-style: solid;
+    column-rule-width: thin;
+}
+
+ul.default {
+    list-style-type: disc;
+}
+
+ul.check,
+ol.check,
+li.check {
+    list-style-type: none;
+}
+
+li.todo {
+    list-style-type: none;
+
+    &::before {
+        content: "☐ ";
+    }
+}
+
+li.done {
+    list-style-type: none;
+
+    &::before {
+        content: "🗹 ";
+    }
+}
+
+li.cancel {
+    list-style-type: none;
+
+    &::before {
+        content: "☒ ";
+    }
+}
+
+ol.decimal,
+li.decimal {
+    list-style-type: decimal;
+}
+
+ol.roman,
+li.roman {
+    list-style-type: upper-roman;
+}
+
+ol.upper,
+li.upper {
+    list-style-type: upper-alpha;
+}
+
+ol.lower,
+li.lower {
+    list-style-type: lower-alpha;
+}
+
+ol.greek,
+li.greek {
+    list-style-type: lower-greek;
+}
+
+ol.hebrew,
+li.hebrew {
+    list-style-type: hebrew;
+}

@@ -1,9 +1,8 @@
 ---
+layout: page
 title: Divine Council Worldview resources
 
 ---
-
-# Divine Council Worldview resources
 
 aka [Deuteronomy 32](https://netbible.org/bible/Deuteronomy+32) Worldview
 
