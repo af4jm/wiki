@@ -1,10 +1,15 @@
+---
+title: Divine Council Worldview resources
+
+---
+
 # Divine Council Worldview resources
 
 aka [Deuteronomy 32](https://netbible.org/bible/Deuteronomy+32) Worldview
 
 <small>(icons are links to watch videos or purchase books)</small>
 
-## Books by Dr. Michael Heiser
+## Books by [Dr. Michael Heiser](https://drmsh.com/)
 
 - <cite>The Unseen Realm: Recovering the Supernatural Worldview of the Bible</cite>
     [![‹Amazon Kindle›](../icons/kindle.webp)](https://www.amazon.com/Unseen-Realm-Recovering-Supernatural-Worldview-ebook/dp/B0141QB9XA/)

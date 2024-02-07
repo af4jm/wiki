@@ -1,3 +1,8 @@
+---
+title: John’s public pages
+
+---
+
 # John’s public pages
 
 - [free Bible resources](./bible/README.md)

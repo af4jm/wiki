@@ -1,3 +1,8 @@
+---
+title: free Bible resources
+
+---
+
 # free Bible resources
 
 - [![](../icons/logos.webp) Logos Bible Software (free edition)](https://www.logos.com/free-edition)
