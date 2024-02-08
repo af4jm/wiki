@@ -1,5 +1,4 @@
 ---
-layout: page
 title: free Bible resources
 permalink: /bible_resources/
 

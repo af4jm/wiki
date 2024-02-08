@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Divine Council Worldview resources
 permalink: /divine_council/
 
