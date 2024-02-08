@@ -1,9 +1,14 @@
-## free Bible resources
+---
+layout: page
+title: free Bible resources
+permalink: /bible_resources/
 
-- [![](../icons/logos.webp) Logos Bible Software (free edition)](https://www.logos.com/free-edition)
+---
+
+- [![](./icons/logos.webp) Logos Bible Software (free edition)](https://www.logos.com/free-edition)
 - [NET Bible online, with full study notes](https://netbible.org)
 
-### recommended podcasts
+## recommended podcasts
 
 - [“Naked Bible Podcast”](https://nakedbiblepodcast.com/) ([Dr. Michael Heiser](https://drmsh.com/))
 - [“The Bible (Unmuted)”](https://podcasters.spotify.com/pod/show/the-bible-unmuted/) ([Dr. Matthew Halsted](https://matthewhalsted.com/))
