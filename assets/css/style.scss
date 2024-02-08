@@ -110,8 +110,9 @@ blockquote {
     border-color: var(--highlight-background-color);
 }
 
-pre {
-    text-align: left;
+pre,
+code {
+    text-align: start;
 }
 
 figure {
@@ -359,13 +360,15 @@ abbr[title] span.katex,
     text-decoration: underline dotted;
 }
 
+pre,
+code,
+abbr.lang {
+    font-family: var(--markdown-font-family-mono);
+}
+
 .Bible {
     font-family: var(--markdown-font-family-serif);
     filter: brightness(110%);
-}
-
-abbr.lang {
-    font-family: var(--markdown-font-family-mono);
 }
 
 .caps {
