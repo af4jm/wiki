@@ -20,7 +20,7 @@
 
 title: John’s public wiki
 email: af4jm@users.noreply.github.com
-description: ""
+description: "Public pages of John’s personal knowledge base"
 baseurl: "/" # the subpath of your site, e.g. /blog
 domain: wiki.johnmeyer.net
 url: "https://wiki.johnmeyer.net" # the base hostname & protocol for your site, e.g. http://example.com
