@@ -1,6 +1,6 @@
 ---
 layout: home
-title: John’s public pages
+title: "{{ site.title }}"
 
 ---
 
