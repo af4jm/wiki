@@ -240,8 +240,10 @@ a[href^="#"] {
     color: var(--internal-link-color);
 }
 
-a[href^="logos"],
-a[href^="https://ref.ly/logos"] {
+a[href^="logosres:"],
+a[href^="logos4:"],
+a[href^="https://ref.ly/logosres/"],
+a[href^="https://ref.ly/logos4"] {
     color: var(--logos-link-color);
 }
 
@@ -347,6 +349,10 @@ i i {
 abbr,
 .dim {
     filter: brightness(75%);
+}
+
+.Bible abbr {
+    filter: none !important;
 }
 
 abbr code {
