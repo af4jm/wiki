@@ -4,6 +4,8 @@ permalink: /divine_council/
 
 ---
 
+([home](/))
+
 aka [Deuteronomy 32](https://netbible.org/bible/Deuteronomy+32) Worldview
 
 <small>(icons are links to watch videos or purchase books)</small>

@@ -4,6 +4,8 @@ permalink: /bible_resources/
 
 ---
 
+([home](/))
+
 Everything on this page is 100% free, except the add-on resources link marked with \*.
 
 - [![‹Logos›](./icons/logos.webp) Logos Bible Software (free edition)](https://www.logos.com/free-edition)
