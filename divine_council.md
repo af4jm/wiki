@@ -10,7 +10,7 @@ permalink: /divine_council/
 
 aka [Deuteronomy 32](https://netbible.org/bible/Deuteronomy+32) Worldview
 
-<small>(icons are links to watch videos or purchase books)</small>
+<small>(Icons are links to watch videos or purchase books. All videos are available free on ![‹YouTube›](./icons/youtube.webp)YouTube.)</small>
 
 ## Books by [Dr. Michael Heiser](https://drmsh.com/)
 
@@ -45,7 +45,7 @@ aka [Deuteronomy 32](https://netbible.org/bible/Deuteronomy+32) Worldview
 
 ### related videos
 
-- [Divine Council intro](https://nakedbiblepodcast.com/newstarthere/) from “The Naked Bible Podcast” site
+- [Divine Council intro](https://nakedbiblepodcast.com/newstarthere/) from “The Naked Bible Podcast” site (YouTube videos)
 - YouTube playlists
     - [Unseen Realm 101](https://www.youtube.com/playlist?list=PL9-E3d1xt1O6W7NjDlqsZ18jSOvKMxqpZ) <small>(<time datetime="PT18M">:18</time>)</small>
     - [Supernatural Seminar: What the Bible Says About the Unseen Realm](https://www.youtube.com/playlist?list=PL9-E3d1xt1O5zI2xExz8gGUoQjvhUtN9x) <small>(<time datetime="PT4H37M">4:37</time>)</small>
