@@ -12,9 +12,15 @@ Everything on this page is 100% free, except the add-on resources link marked wi
 
 - [![‹Logos›](./icons/logos.webp) Logos Bible Software (free edition – for desktop, mobile, & web)](https://www.logos.com/free-edition)
     - [BibleProject Classroom bundle (add-on resources)*](https://www.logos.com/classroom-bundle)
-- [NET Bible online, with full study notes](https://netbible.org)
 - [BibleStudyTools.com](https://www.biblestudytools.com/)
 - [Blue Letter Bible](https://www.blueletterbible.org/)
+
+## Bibles
+
+- [NET, with full study notes](https://netbible.org)
+- [English Standard Version (ESV)](https://www.esv.org/)
+- [Lexham English Bible (LEB)](https://biblia.com/books/leb)
+- [Legacy Standard Bible (LSB) [updated NASB]](https://read.lsbible.org/)
 
 ## recommended podcasts
 
@@ -27,3 +33,7 @@ Everything on this page is 100% free, except the add-on resources link marked wi
 
 - [BibleProject Classroom](https://bibleproject.com/classroom/)
 - [Biblical Training](https://www.biblicaltraining.org/)
+
+***
+
+- [Greek interlinear Bible (NT only)](https://bible.xojocloud.net)

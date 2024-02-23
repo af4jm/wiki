@@ -29,6 +29,9 @@
     "files.trimTrailingWhitespace": true,
     "markdown.editor.pasteUrlAsFormattedLink.enabled": "smart",
     "markdown.preferredMdPathExtensionStyle": "includeExtension",
+    "markdown.styles": [
+        "assets\\css\\style.scss"
+    ],
     "markdown.suggest.paths.includeWorkspaceHeaderCompletions": "onSingleOrDoubleHash",
     "markdown.validate.enabled": true,
     "markdown.validate.fileLinks.enabled":"error",
