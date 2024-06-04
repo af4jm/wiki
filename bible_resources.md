@@ -22,11 +22,15 @@ Everything on this page is 100% free, except the add-on resources link marked wi
 - [Lexham English Bible (LEB)](https://biblia.com/books/leb)
 - [Legacy Standard Bible (LSB) [updated NASB]](https://read.lsbible.org/)
 
+<!-- -->
+
+- [Greek interlinear (NT only)](https://bible.xojocloud.net)
+
 ## recommended podcasts
 
+- [“Divine Council Worldview Podcast”](https://sites.libsyn.com/513968/site) (Ronn Johnson & Mike Chu)
 - [“Naked Bible Podcast”](https://nakedbiblepodcast.com/) ([Dr. Michael Heiser](https://drmsh.com/))
 - [“The Bible (Unmuted)”](https://podcasters.spotify.com/pod/show/the-bible-unmuted/) ([Dr. Matthew Halsted](https://matthewhalsted.com/))
-- [“Divine Council Worldview Podcast”](https://sites.libsyn.com/513968/site) (Ronn Johnson & Mike Chu)
 - [“Bible Backgrounds”](https://www.spreaker.com/podcast/bible-backgrounds--5432498) ([Dr. Craig Keener](https://craigkeener.com/))
 - [“BibleProject Podcast”](https://bibleproject.com/podcasts/the-bible-project-podcast/) (Dr. Tim Mackie & Jon Collins)
 
@@ -34,7 +38,3 @@ Everything on this page is 100% free, except the add-on resources link marked wi
 
 - [BibleProject Classroom](https://bibleproject.com/classroom/)
 - [Biblical Training](https://www.biblicaltraining.org/)
-
-***
-
-- [Greek interlinear Bible (NT only)](https://bible.xojocloud.net)
