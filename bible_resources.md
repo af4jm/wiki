@@ -12,7 +12,7 @@ Everything on this page is 100% free, except the add-on resources link marked wi
 
 - [![‹Logos›](./icons/logos.webp) Logos Bible Software (free edition – for desktop, mobile, & web)](https://www.logos.com/free-edition)
     - [BibleProject Classroom bundle (add-on resources)*](https://www.logos.com/classroom-bundle)
-- [BibleStudyTools.com](https://www.biblestudytools.com/)
+- [BibleStudyTools.com](https://www.biblestudytools.com)
 - [Blue Letter Bible](https://www.blueletterbible.org/)
 
 ## Bibles
@@ -29,9 +29,9 @@ Everything on this page is 100% free, except the add-on resources link marked wi
 ## recommended podcasts
 
 - [“Divine Council Worldview Podcast”](https://sites.libsyn.com/513968/site) (Ronn Johnson & Mike Chu)
-- [“Naked Bible Podcast”](https://nakedbiblepodcast.com/) ([Dr. Michael Heiser](https://drmsh.com/))
-- [“The Bible (Unmuted)”](https://podcasters.spotify.com/pod/show/the-bible-unmuted/) ([Dr. Matthew Halsted](https://matthewhalsted.com/))
-- [“Bible Backgrounds”](https://www.spreaker.com/podcast/bible-backgrounds--5432498) ([Dr. Craig Keener](https://craigkeener.com/))
+- [“Naked Bible Podcast”](https://nakedbiblepodcast.com) ([Dr. Michael Heiser](https://drmsh.com))
+- [“The Bible (Unmuted)”](https://podcasters.spotify.com/pod/show/the-bible-unmuted/) ([Dr. Matthew Halsted](https://matthewhalsted.com))
+- [“Bible Backgrounds”](https://www.spreaker.com/podcast/bible-backgrounds--5432498) ([Dr. Craig Keener](https://craigkeener.com))
 - [“BibleProject Podcast”](https://bibleproject.com/podcasts/the-bible-project-podcast/) (Dr. Tim Mackie & Jon Collins)
 
 ## free online courses
