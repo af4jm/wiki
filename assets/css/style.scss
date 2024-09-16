@@ -357,26 +357,33 @@ a[href^="."][href*="/tag/sport/soccer/"]:not([href$="soccer/README.md"]) {
     font-weight: bold;
 }
 
-cite,
-dfn,
 .italic {
     font-style: italic;
 }
 
 /* italics inside of italics should not be italicized */
 *[lang] cite,
+*[lang] dfn,
 *[lang] em,
 *[lang] i,
 cite *[lang],
 cite cite,
+cite dfn,
 cite em,
 cite i,
+dfn *[lang],
+dfn cite,
+dfn dfn,
+dfn em,
+dfn i,
 em *[lang],
 em cite,
+em dfn,
 em em,
 em i,
 i *[lang],
 i cite,
+i dfn,
 i em,
 i i {
     font-style: normal;

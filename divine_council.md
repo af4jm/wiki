@@ -10,7 +10,7 @@ permalink: /divine_council/
 
 aka [Deuteronomy 32](https://netbible.org/bible/Deuteronomy+32) Worldview
 
-<small>(Icons are links to watch videos or purchase books. All videos are available free on ![‹YouTube›](./icons/youtube.webp)YouTube.)</small>
+<span class="smaller">(Icons are links to watch videos or purchase books. All videos are available free on ![‹YouTube›](./icons/youtube.webp)YouTube.)</span>
 
 ## Books by [Dr. Michael Heiser](https://drmsh.com)
 
