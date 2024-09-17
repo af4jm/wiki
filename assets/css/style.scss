@@ -389,12 +389,13 @@ i i {
     font-style: normal;
 }
 
-/* non-Latin characters: no italics */
+/* non-Latin characters: no italics, larger */
 :lang(akk),
 :lang(ara),
 :lang(arc),
 :lang(cop),
 :lang(egy),
+:lang(el),
 :lang(elx),
 :lang(gez),
 :lang(grc),
@@ -407,6 +408,7 @@ i i {
 :lang(syc),
 :lang(uga) {
     font-style: inherit !important;
+    font-size: 1.33em;
 }
 
 abbr,
