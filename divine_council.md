@@ -8,7 +8,7 @@ permalink: /divine_council/
 
 # Divine Council Worldview resources
 
-aka [Deuteronomy 32](https://netbible.org/bible/Deuteronomy+32) Worldview
+aka [Deuteronomy 32](https://netbible.org/bible/Deuteronomy+32%3A6%2D9) Worldview
 
 <span class="smaller">(Icons are links to watch videos or purchase books. All videos are available free on ![‹YouTube›](./icons/youtube.webp)YouTube.)</span>
 
@@ -43,10 +43,12 @@ aka [Deuteronomy 32](https://netbible.org/bible/Deuteronomy+32) Worldview
         [![‹YouTube›](./icons/youtube.webp)](https://www.youtube.com/watch?v=H41Lw2YEY74&list=PLXkjd_l1xkSR5QikgFJQUoJpzK_4PXQWS)
         [![‹FaithlifeTV›](./icons/faithlife_tv.webp)](https://faithlifetv.com/media/769727)
 
-### related videos
+## related videos
 
-- [Divine Council intro](https://nakedbiblepodcast.com/newstarthere/) from “The Naked Bible Podcast” site (YouTube videos)
-- YouTube playlists
-    - [Unseen Realm 101](https://www.youtube.com/playlist?list=PL9-E3d1xt1O6W7NjDlqsZ18jSOvKMxqpZ) <small>(<time datetime="PT18M">:18</time>)</small>
-    - [Supernatural Seminar: What the Bible Says About the Unseen Realm](https://www.youtube.com/playlist?list=PL9-E3d1xt1O5zI2xExz8gGUoQjvhUtN9x) <small>(<time datetime="PT4H37M">4:37</time>)</small>
-    - [Animated videos](https://www.youtube.com/playlist?list=PLwfjUxja_BKfwvToPOvJensysS-PEup_f) <small>(<time datetime="PT45M">:45</time>)</small>
+- [Divine Council intro](https://nakedbiblepodcast.com/newstarthere/) from <cite>The Naked Bible Podcast</cite> site [YouTube videos] <small>(<time datetime="PT2H">2:00</time>)</small>
+- ![‹YouTube›](./icons/youtube.webp)YouTube playlists
+    - [“Unseen Realm 101,” AWKNG School of Theology](https://www.youtube.com/playlist?list=PL9-E3d1xt1O6W7NjDlqsZ18jSOvKMxqpZ) <small>(<time datetime="PT18M">:18</time>)</small>
+    - [“Supernatural Seminar: What the Bible Says About the Unseen Realm,” AWKNG School of Theology](https://www.youtube.com/playlist?list=PL9-E3d1xt1O5zI2xExz8gGUoQjvhUtN9x) <small>(<time datetime="PT4H37M">4:37</time>)</small>
+    - [“Animated videos,” Dr. Heiser](https://www.youtube.com/playlist?list=PLwfjUxja_BKfwvToPOvJensysS-PEup_f) <small>(<time datetime="PT45M">:45</time>)</small>
+    - [“The Unseen Realm,” Ring Them Bells](https://www.youtube.com/playlist?list=PLnVDnbbID1uLfqYYXcvVK802uKZNqiVfL)
+- [![‹YouTube›](./icons/youtube.webp) “Behind ‘The Unseen’ Documentary,” Ring Them Bells](https://www.youtube.com/watch?v=qylaqBx5Xdg)
