@@ -8,7 +8,7 @@ permalink: /divine_council/
 
 # Divine Council Worldview resources
 
-aka [Deuteronomy 32](https://netbible.org/bible/Deuteronomy+32%3A6%2D9) Worldview
+aka [Deuteronomy 32](https://openbible.com/chapter/deuteronomy/32.htm) Worldview
 
 <span class="smaller">(Icons are links to watch videos or purchase books. All videos are available free on ![‹YouTube›](./icons/youtube.webp)YouTube.)</span>
 
