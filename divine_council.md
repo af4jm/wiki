@@ -52,3 +52,18 @@ aka [Deuteronomy 32](https://openbible.com/chapter/deuteronomy/32.htm) Worldview
     - [“Animated videos,” Dr. Heiser](https://www.youtube.com/playlist?list=PLwfjUxja_BKfwvToPOvJensysS-PEup_f) <small>(<time datetime="PT45M">:45</time>)</small>
     - [“The Unseen Realm,” Ring Them Bells](https://www.youtube.com/playlist?list=PLnVDnbbID1uLfqYYXcvVK802uKZNqiVfL)
 - [![‹YouTube›](./icons/youtube.webp) “Behind ‘The Unseen’ Documentary,” Ring Them Bells](https://www.youtube.com/watch?v=qylaqBx5Xdg)
+
+## key Bible verses (Bible quotes NET)
+
+- Genesis 6:1-4: (cf. 1 Enoch 6–16) notes from [“More Unseen Realm”](https://www.moreunseenrealm.com/)…
+    - The Old Testament never references Genesis 3 as the cause of human depravity. Instead, it is Genesis 6:5 that makes the sweeping statement about depravity.
+    - Julius Africanus & Augustine changed the church view away from the supernatural & away from 1 Enoch.
+- Deuteronomy 4:19-20: <span class="Bible">When you look up to the sky and see the sun, moon, and stars—the whole heavenly creation—you must not be seduced to worship and serve them, for [Yahweh] your God has assigned them to all the people of the world. You, however, [Yahweh] has selected and brought from Egypt, that iron-smelting furnace, to be his special people as you are today.</span>
+- Deuteronomy 32:8-9: <span class="Bible">the Most High … divided up humankind.… [Yahweh’s] allotment …</span>
+- Deuteronomy 32:17: <span class="Bible">they sacrificed to demons, divine beings they had not known</span>
+- Deuteronomy 32:43: <span class="Bible"> Cry out, O *heavens*, with *him*, **bow down to him, all gods;** for he avenges his *children*’s blood, and takes vengeance against his enemies. **He repays those who hate him** and makes atonement for *his people’s land*. </span> <small>[**bold** missing from Masoretic Text]</small>
+- 1 Kings 22:19-22: Micaiah’s prophesy: <span class="Bible">Who will deceive Ahab?… Go out and do as you have proposed.</span> (cf. 2 Chronicles 18:18-22)
+- 2 Kings 5:17: Naaman: <span class="Bible">please give your servant a load of dirt … \[I] will never again offer a burnt offering or sacrifice to a god other than [Yahweh].</span>
+- 2 Kings 17:26-28: <span class="Bible">… they do not know the requirements of the God of the land.… one of the priests … from Samaria … taught them how to worship [Yahweh].</span>
+- Psalm 82: the Council members are condemned for not upholding justice
+- Psalm 89:5-7: <span class="Bible">For who in the skies can compare to [Yahweh]?  Who is like [Yahweh] among the heavenly beings,</span>

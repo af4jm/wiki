@@ -32,9 +32,11 @@ Everything on this page is 100% free, except the add-on resources link marked wi
 - [“Naked Bible Podcast”](https://nakedbiblepodcast.com) ([Dr. Michael Heiser](https://drmsh.com))
 - [“The Bible (Unmuted)”](https://podcasters.spotify.com/pod/show/the-bible-unmuted) ([Dr. Matthew Halsted](https://matthewhalsted.com))
 - [“Bible Backgrounds”](https://www.spreaker.com/podcast/bible-backgrounds--5432498) ([Dr. Craig Keener](https://craigkeener.com))
+- [“Ask a Scholar”](https://awkng.com/podcast) (Karla Adcox & Mike Chu, AWKNG)
 - [“BibleProject Podcast”](https://bibleproject.com/podcasts/the-bible-project-podcast) (Dr. Tim Mackie & Jon Collins)
 
 ## free online courses
 
-- [BibleProject Classroom](https://bibleproject.com/classroom)
+- [AWKNG (Awakening School of Theology)](https://awkng.com/online-bible-study-courses)
 - [Biblical Training](https://www.biblicaltraining.org)
+- [BibleProject Classroom](https://bibleproject.com/classroom)
