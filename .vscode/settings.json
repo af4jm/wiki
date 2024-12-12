@@ -6,7 +6,6 @@
     "editor.glyphMargin": false,
     "editor.insertSpaces": true,
     "editor.largeFileOptimizations": true,
-    "editor.pasteAs.enabled": true,
     "editor.snippetSuggestions": "bottom",
     "editor.suggestSelection": "recentlyUsedByPrefix",
     "editor.tabCompletion": "onlySnippets",
