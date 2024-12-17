@@ -53,6 +53,17 @@ aka [Deuteronomy 32](https://openbible.com/chapter/deuteronomy/32.htm) Worldview
     - [“The Unseen Realm,” Ring Them Bells](https://www.youtube.com/playlist?list=PLnVDnbbID1uLfqYYXcvVK802uKZNqiVfL)
 - [![‹YouTube›](./icons/youtube.webp) “Behind ‘The Unseen’ Documentary,” Ring Them Bells](https://www.youtube.com/watch?v=qylaqBx5Xdg)
 
+## What is a Divine Council Worldview?
+
+by Dr. Ronn Johnson in [episode 1](https://www.youtube.com/watch?v=zXDY0OLRspU&list=PLwfjUxja_BKcaWv3hBTWDpo0OpydSLSeq&t=1555) of the [Divine Council Worldview Podcast](https://sites.libsyn.com/513968/site) ([![‹YouTube›](./icons/youtube.webp)](https://www.youtube.com/playlist?list=PLwfjUxja_BKcaWv3hBTWDpo0OpydSLSeq))
+
+1. The starting point for all biblical interpretation is an attempt to understand the original writer, his intended audience, and the culture they shared. This means, among many things, that all biblical study must use original languages.
+2. The cosmology of the Bible presumes a society of divine beings who were created by one deity. This single, Most High God, is named YHWH (“Yahweh”); and He exhibits eternal, unquestioned rule over all spirits and beings.
+3. At an early point within the biblical story, Yahweh delegated authoritative power to a number of created deities over the physical world (nations, etc.). Judgement is yet promised upon a number of these beings for their misuse of this authority.
+4. Jesus Christ has presently assumed, by the decree of Yahweh, the place of highest honor over all gods and humans.
+5. The locus of the Gospel message throughout Acts and Paul’s epistles is loyalty to Jesus/<wbr/>Yahweh above all other gods.
+6. In the next age, believers will assume the status of divineness, a position which will rival, possibly replace, the ruling god of this present age.
+
 ## key Bible verses (Bible quotes NET)
 
 - Genesis 6:1-4: (cf. 1 Enoch 6–16) notes from [“More Unseen Realm”](https://www.moreunseenrealm.com/)…
