@@ -43,7 +43,7 @@ aka [Deuteronomy 32](https://openbible.com/chapter/deuteronomy/32.htm) Worldview
         [![‹YouTube›](./icons/youtube.webp)](https://www.youtube.com/watch?v=H41Lw2YEY74&list=PLXkjd_l1xkSR5QikgFJQUoJpzK_4PXQWS)
         [![‹FaithlifeTV›](./icons/faithlife_tv.webp)](https://faithlifetv.com/media/769727)
 
-## related videos
+### related videos
 
 - [Divine Council intro](https://nakedbiblepodcast.com/newstarthere) from <cite>The Naked Bible Podcast</cite> site [YouTube videos] <small>(<time datetime="PT2H">2:00</time>)</small>
 - ![‹YouTube›](./icons/youtube.webp)YouTube playlists
@@ -53,9 +53,15 @@ aka [Deuteronomy 32](https://openbible.com/chapter/deuteronomy/32.htm) Worldview
     - [“The Unseen Realm,” Ring Them Bells](https://www.youtube.com/playlist?list=PLnVDnbbID1uLfqYYXcvVK802uKZNqiVfL)
 - [![‹YouTube›](./icons/youtube.webp) “Behind ‘The Unseen’ Documentary,” Ring Them Bells](https://www.youtube.com/watch?v=qylaqBx5Xdg)
 
+### related podcasts
+
+- [“Divine Council Worldview Podcast”](https://sites.libsyn.com/513968/site) (Dr. Ronn Johnson & Mike Chu, MDiv; with Rich Baker & Mel Gever)
+    ([![‹YouTube›](./icons/youtube.webp)](https://www.youtube.com/playlist?list=PLwfjUxja_BKcaWv3hBTWDpo0OpydSLSeq))
+- [“Naked Bible Podcast”](https://nakedbiblepodcast.com) ([Dr. Michael Heiser](https://drmsh.com))
+
 ## What is a Divine Council Worldview?
 
-by Dr. Ronn Johnson in [episode 1](https://www.youtube.com/watch?v=zXDY0OLRspU&list=PLwfjUxja_BKcaWv3hBTWDpo0OpydSLSeq&t=1555) of the [Divine Council Worldview Podcast](https://sites.libsyn.com/513968/site) ([![‹YouTube›](./icons/youtube.webp)](https://www.youtube.com/playlist?list=PLwfjUxja_BKcaWv3hBTWDpo0OpydSLSeq))
+by Dr. Ronn Johnson in [episode 1](https://www.youtube.com/watch?v=zXDY0OLRspU&list=PLwfjUxja_BKcaWv3hBTWDpo0OpydSLSeq&t=1555) of the “Divine Council Worldview Podcast”
 
 1. The starting point for all biblical interpretation is an attempt to understand the original writer, his intended audience, and the culture they shared. This means, among many things, that all biblical study must use original languages.
 2. The cosmology of the Bible presumes a society of divine beings who were created by one deity. This single, Most High God, is named YHWH (“Yahweh”); and He exhibits eternal, unquestioned rule over all spirits and beings.
@@ -66,7 +72,7 @@ by Dr. Ronn Johnson in [episode 1](https://www.youtube.com/watch?v=zXDY0OLRspU&l
 
 ## key Bible verses (Bible quotes NET, except *)
 
-- Genesis 6:1-4: (cf. 1 Enoch 6–16) notes from [“More Unseen Realm”](https://www.moreunseenrealm.com/)…
+- Genesis 6:1-4: (cf. 1 Enoch 6–16 [chapters 7–8 below]) notes from [“More Unseen Realm”](https://www.moreunseenrealm.com/)…
     - The Old Testament never references Genesis 3 as the cause of human depravity. Instead, it is Genesis 6:5 that makes the sweeping statement about depravity.
     - Julius Africanus & Augustine changed the church view away from the supernatural & away from 1 Enoch.
 - Deuteronomy 4:19-20: <span class="Bible">When you look up to the sky and see the sun, moon, and stars—the whole heavenly creation—you must not be seduced to worship and serve them, for [Yahweh] your God has assigned them to all the people of the world. You, however, [Yahweh] has selected and brought from Egypt, that iron-smelting furnace, to be his special people as you are today.</span>
@@ -78,3 +84,11 @@ by Dr. Ronn Johnson in [episode 1](https://www.youtube.com/watch?v=zXDY0OLRspU&l
 - 2 Kings 17:26-28: <span class="Bible">… they do not know the requirements of the God of the land.… one of the priests … from Samaria … taught them how to worship [Yahweh].</span>
 - Psalm 82: the Council members are condemned for not upholding justice
 - Psalm 89:5-7: <span class="Bible">For who in the skies can compare to [Yahweh]?  Who is like [Yahweh] among the heavenly beings,</span>
+
+### 1 Enoch 7–8
+
+<small>English translation by R.H. Charles (<time>1913</time>)</small>
+
+<b>7</b> <sup>1</sup> And all the others together with them took unto themselves wives, and each chose for himself one, and they began to go in unto them and to defile themselves with them, and they taught them charms and enchantments, and the cutting of roots, and made them acquainted with plants. <sup>2</sup> And they became pregnant, and they bare great giants, whose height was three thousand ells: <sup>3</sup> Who consumed all the acquisitions of men. <sup>4</sup> And when men could no longer sustain them, the giants turned against them and devoured mankind. <sup>5</sup> And they began to sin against birds, and beasts, and reptiles, and fish, and to devour one another’s flesh, and drink the blood. <sup>6</sup> Then the earth laid accusation against the lawless ones.
+
+<b>8</b> <sup>1</sup> And Azâzêl taught men to make swords, and knives, and shields, and breastplates, and made known to them the metals of the earth and the art of working them, and bracelets, and ornaments, and the use of antimony, and the beautifying of the eyelids, and all kinds of costly stones, and all coloring tinctures. <sup>2</sup> And there arose much godlessness, and they committed fornication, and they were led astray, and became corrupt in all their ways. <sup>3</sup> Semjâzâ taught enchantments, and root-cuttings, Armârôs the resolving of enchantments, Barâqîjâl astrology, Kôkabêl the constellations, Êzêqêêl the knowledge of the clouds, Araqiêl the signs of the earth, Shamsiêl the signs of the sun, and Sariêl the course of the moon. <sup>4</sup> And as men perished, they cried, and their cry went up to heaven …
