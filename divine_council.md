@@ -55,13 +55,13 @@ aka [Deuteronomy 32](https://openbible.com/chapter/deuteronomy/32.htm) Worldview
 
 ### related podcasts
 
-- [“Divine Council Worldview Podcast”](https://sites.libsyn.com/513968/site) (Dr. Ronn Johnson & Mike Chu, MDiv; with Rich Baker & Mel Gever)
+- [<cite>Divine Council Worldview Podcast</cite>](https://sites.libsyn.com/513968/site) (Dr. Ronn Johnson & Mike Chu, MDiv; with Rich Baker & Mel Gever)
     ([![‹YouTube›](./icons/youtube.webp)](https://www.youtube.com/playlist?list=PLwfjUxja_BKcaWv3hBTWDpo0OpydSLSeq))
-- [“Naked Bible Podcast”](https://nakedbiblepodcast.com) ([Dr. Michael Heiser](https://drmsh.com))
+- [<cite>Naked Bible Podcast</cite>](https://nakedbiblepodcast.com) ([Dr. Michael Heiser](https://drmsh.com))
 
 ## What is a Divine Council Worldview?
 
-by Dr. Ronn Johnson in [episode 1](https://www.youtube.com/watch?v=zXDY0OLRspU&list=PLwfjUxja_BKcaWv3hBTWDpo0OpydSLSeq&t=1555) of the “Divine Council Worldview Podcast”
+by Dr. Ronn Johnson in [episode 1](https://www.youtube.com/watch?v=zXDY0OLRspU&list=PLwfjUxja_BKcaWv3hBTWDpo0OpydSLSeq&t=1555) of the <cite>Divine Council Worldview Podcast</cite>
 
 1. The starting point for all biblical interpretation is an attempt to understand the original writer, his intended audience, and the culture they shared. This means, among many things, that all biblical study must use original languages.
 2. The cosmology of the Bible presumes a society of divine beings who were created by one deity. This single, Most High God, is named YHWH (“Yahweh”); and He exhibits eternal, unquestioned rule over all spirits and beings.

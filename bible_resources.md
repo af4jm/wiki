@@ -28,12 +28,12 @@ Everything on this page is 100% free, except the add-on resources link marked wi
 
 ## recommended podcasts
 
-- [“Divine Council Worldview Podcast”](https://sites.libsyn.com/513968/site) (Dr. Ronn Johnson, Mike Chu, Rich Baker, Mel Gever)
-- [“Naked Bible Podcast”](https://nakedbiblepodcast.com) ([Dr. Michael Heiser](https://drmsh.com))
-- [“The Bible (Unmuted)”](https://podcasters.spotify.com/pod/show/the-bible-unmuted) ([Dr. Matthew Halsted](https://matthewhalsted.com))
-- [“Bible Backgrounds”](https://www.spreaker.com/podcast/bible-backgrounds--5432498) ([Dr. Craig Keener](https://craigkeener.com))
-- [“Ask a Scholar”](https://awkng.com/podcast) (Karla Adcox & Mike Chu, AWKNG)
-- [“BibleProject Podcast”](https://bibleproject.com/podcasts/the-bible-project-podcast) (Dr. Tim Mackie & Jon Collins)
+- [<cite>Divine Council Worldview Podcast</cite>](https://sites.libsyn.com/513968/site) (Dr. Ronn Johnson, Mike Chu, Rich Baker, Mel Gever)
+- [<cite>Naked Bible Podcast</cite>](https://nakedbiblepodcast.com) ([Dr. Michael Heiser](https://drmsh.com))
+- [<cite>The Bible (Unmuted)</cite>](https://podcasters.spotify.com/pod/show/the-bible-unmuted) ([Dr. Matthew Halsted](https://matthewhalsted.com))
+- [<cite>Bible Backgrounds</cite>](https://www.spreaker.com/podcast/bible-backgrounds--5432498) ([Dr. Craig Keener](https://craigkeener.com))
+- [<cite>Ask a Scholar</cite>](https://awkng.com/podcast) (Karla Adcox & Mike Chu, AWKNG)
+- [<cite>BibleProject Podcast</cite>](https://bibleproject.com/podcasts/the-bible-project-podcast) (Dr. Tim Mackie & Jon Collins)
 
 ## free online courses
 
