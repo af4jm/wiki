@@ -75,6 +75,8 @@ by Dr. Ronn Johnson in [episode 1](https://www.youtube.com/watch?v=zXDY0OLRspU&l
 - Genesis 6:1-4: (cf. 1 Enoch 6–16 [chapters 7–8 below]) notes from [“More Unseen Realm”](https://www.moreunseenrealm.com/)…
     - The Old Testament never references Genesis 3 as the cause of human depravity. Instead, it is Genesis 6:5 that makes the sweeping statement about depravity.
     - Julius Africanus & Augustine changed the church view away from the supernatural & away from 1 Enoch.
+- Genesis 10 – 70 nations, & the presumed number of members of God’s Divine Council\
+    cf. Exodus 24:1,9; Numbers 11:16; Luke 10:1
 - Deuteronomy 4:19-20: <span class="Bible">When you look up to the sky and see the sun, moon, and stars—the whole heavenly creation—you must not be seduced to worship and serve them, for [Yahweh] your God has assigned them to all the people of the world. You, however, [Yahweh] has selected and brought from Egypt, that iron-smelting furnace, to be his special people as you are today.</span>
 - Deuteronomy 32:8-9: <span class="Bible">When the Most High gave the nations their inheritance, when he divided up humankind, he set the boundaries of the peoples, according to the number of the heavenly assembly</span> <small>[or “sons of God”]</small><span class="Bible">. For the [Yahweh]’s allotment is his people, Jacob is his special possession.</span>
 - Deuteronomy 32:17*: <span class="Bible">they sacrificed to demons, divine beings they had not known</span>
