@@ -84,6 +84,8 @@ by Dr. Ronn Johnson in [episode 1](https://www.youtube.com/watch?v=zXDY0OLRspU&l
 - 1 Kings 22:19-22: Micaiah’s prophesy: <span class="Bible">Who will deceive Ahab?… Go out and do as you have proposed.</span> (cf. 2 Chronicles 18:18-22)
 - 2 Kings 5:17: Naaman: <span class="Bible">please give your servant a load of dirt … \[I] will never again offer a burnt offering or sacrifice to a god other than [Yahweh].</span>
 - 2 Kings 17:26-28: <span class="Bible">… they do not know the requirements of the God of the land.… one of the priests … from Samaria … taught them how to worship [Yahweh].</span>
+- Isaiah 6:8: <span class="Bible">Whom will I send? Who will go on our behalf?</span>
+- Isaiah 40:1-2a: <span class="Bible">***Comfort***, O ***comfort*** My people, says your God. ***Speak*** to the heart of Jerusalem; And ***call out*** to her,</span> (plural verbs)
 - Psalm 82: the Council members are condemned for not upholding justice
 - Psalm 89:5-7: <span class="Bible">For who in the skies can compare to [Yahweh]?  Who is like [Yahweh] among the heavenly beings,</span>
 
