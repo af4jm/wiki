@@ -27,6 +27,12 @@ aka [Deuteronomy 32](https://openbible.com/chapter/deuteronomy/32.htm) Worldview
     [![‹Amazon Kindle›](./icons/kindle.webp)](https://www.amazon.com/Supernatural-Bible-Teaches-Unseen-Matters-ebook/dp/B016LT2YHA)
     [![‹Logos›](./icons/logos.webp)](https://www.logos.com/product/53263/supernatural-what-the-bible-teaches-about-the-unseen-world-and-why-it-matters)\
     (this book contains the same information as <cite>The Unseen Realm</cite>, but with a lay focus rather than an academic focus)
+- <cite>The Unseen Realm: A Question & Answer Companion</cite>, by Douglas Van Dorn
+    [![‹Amazon Kindle›](./icons/kindle.webp)](https://www.amazon.com/Unseen-Realm-Question-Answer-Companion/dp/1577996933)
+    [![‹Logos›](./icons/logos.webp)](https://www.logos.com/product/56238/the-unseen-realm-a-question-and-answer-companion)
+
+<!-- -->
+
 - <cite>Reversing Hermon: Enoch, the Watchers, and the Forgotten Mission of Jesus Christ</cite>
     [![‹Amazon Kindle›](./icons/kindle.webp)](https://www.amazon.com/Reversing-Hermon-Watchers-Forgotten-Mission-ebook/dp/B0723B2Z4S)
     [![‹Logos›](./icons/logos.webp)](https://www.logos.com/product/144076/reversing-hermon-enoch-the-watchers-and-the-forgotten-mission-of-jesus-christ)
@@ -74,7 +80,8 @@ by Dr. Ronn Johnson in [episode 1](https://www.youtube.com/watch?v=zXDY0OLRspU&l
 
 - Genesis 6:1-4: (cf. 1 Enoch 6–16 [chapters 7–8 below]) notes from [“More Unseen Realm”](https://www.moreunseenrealm.com/)…
     - The Old Testament never references Genesis 3 as the cause of human depravity. Instead, it is Genesis 6:5 that makes the sweeping statement about depravity.
-    - Julius Africanus & Augustine changed the church view away from the supernatural & away from 1 Enoch.
+    - Julius Africanus & Augustine changed the church view away from the supernatural & away from 1 Enoch, and originated what is now known as the Sethite view.
+    - cf. 1 Corinthians 11:10; 2 Peter 2:4-5,10; Jude 6
 - Genesis 10 – 70 nations, & the presumed number of members of God’s Divine Council\
     cf. Exodus 24:1,9; Numbers 11:16; Luke 10:1
 - Deuteronomy 4:19-20: <span class="Bible">When you look up to the sky and see the sun, moon, and stars—the whole heavenly creation—you must not be seduced to worship and serve them, for [Yahweh] your God has assigned them to all the people of the world. You, however, [Yahweh] has selected and brought from Egypt, that iron-smelting furnace, to be his special people as you are today.</span>
