@@ -557,6 +557,12 @@ abbr.lang {
     white-space: nowrap;
 }
 
+@media only screen and (min-width: 1024px) {
+    .narrowwrap {
+        white-space: nowrap;
+    }
+}
+
 .avoidbreak {
     break-inside: avoid;
 }

@@ -78,7 +78,7 @@ by Dr. Ronn Johnson in [episode 1](https://www.youtube.com/watch?v=zXDY0OLRspU&l
 
 ## key Bible verses (Bible quotes NET, except *)
 
-- Genesis 6:1-4: (cf. 1 Enoch 6–16 [chapters 7–8 below]) notes from [“More Unseen Realm”](https://www.moreunseenrealm.com/)…
+- Genesis 6:1-4: (cf. 1 Enoch 6–16 [chapters 7–8 below]) notes from [“More Unseen Realm”](https://www.moreunseenrealm.com)…
     - The Old Testament never references Genesis 3 as the cause of human depravity. Instead, it is Genesis 6:5 that makes the sweeping statement about depravity.
     - Julius Africanus & Augustine changed the church view away from the supernatural & away from 1 Enoch, and originated what is now known as the Sethite view.
     - cf. 1 Corinthians 11:10; 2 Peter 2:4-5,10; Jude 6
