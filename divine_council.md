@@ -74,7 +74,7 @@ by Dr. Ronn Johnson in [episode 1](https://www.youtube.com/watch?v=zXDY0OLRspU&l
 3. At an early point within the biblical story, Yahweh delegated authoritative power to a number of created deities over the physical world (nations, etc.). Judgement is yet promised upon a number of these beings for their misuse of this authority.
 4. Jesus Christ has presently assumed, by the decree of Yahweh, the place of highest honor over all gods and humans.
 5. The locus of the Gospel message throughout Acts and Paul’s epistles is loyalty to Jesus/<wbr/>Yahweh above all other gods.
-6. In the next age, believers will assume the status of divineness, a position which will rival, possibly replace, the ruling god of this present age.
+6. In the next age, believers will assume the status of divineness, a position which will rival, possibly replace, the ruling gods of this present age.
 
 ## key Bible verses (Bible quotes NET, except *)
 
@@ -84,10 +84,12 @@ by Dr. Ronn Johnson in [episode 1](https://www.youtube.com/watch?v=zXDY0OLRspU&l
     - cf. 1 Corinthians 11:10; 2 Peter 2:4-5,10; Jude 6
 - Genesis 10 – 70 nations, & the presumed number of members of God’s Divine Council\
     cf. Exodus 24:1,9; Numbers 11:16; Luke 10:1
+- Leviticus 16:8-10: <span class="Bible">Aaron is to cast lots over the two goats, one lot for [Yahweh] and one lot for Azazel. Aaron must then present the goat which has been designated by lot for [Yahweh], and he is to make it a sin offering, but the goat which has been designated by lot for Azazel is to be stood alive before [Yahweh] to make atonement on it by sending it away into the desert to Azazel.</span>\
+    (not “scapegoat,” send the sin back to Azazel … Azazel was the leader of the Watchers, see 1 Enoch quote at the bottom of this page)
 - Deuteronomy 4:19-20: <span class="Bible">When you look up to the sky and see the sun, moon, and stars—the whole heavenly creation—you must not be seduced to worship and serve them, for [Yahweh] your God has assigned them to all the people of the world. You, however, [Yahweh] has selected and brought from Egypt, that iron-smelting furnace, to be his special people as you are today.</span>
 - Deuteronomy 32:8-9: <span class="Bible">When the Most High gave the nations their inheritance, when he divided up humankind, he set the boundaries of the peoples, according to the number of the heavenly assembly</span> <small>[or “sons of God”]</small><span class="Bible">. For the [Yahweh]’s allotment is his people, Jacob is his special possession.</span>
 - Deuteronomy 32:17*: <span class="Bible">they sacrificed to demons, divine beings they had not known</span>
-- Deuteronomy 32:43*: <span class="Bible"> Cry out, O *heavens*, with *him*, **bow down to him, all gods;** for he avenges his *children*’s blood, and takes vengeance against his enemies. **He repays those who hate him** and makes atonement for *his people’s land*. </span> <small>[**bold** missing from Masoretic Text]</small>
+- Deuteronomy 32:43*: <span class="Bible">Cry out, O *heavens*, with *him*, **bow down to him, all gods;** for he avenges his *children*’s blood, and takes vengeance against his enemies. **He repays those who hate him** and makes atonement for *his people’s land*. </span> <small>[**bold** missing from Masoretic Text]</small>
 - 1 Kings 22:19-22: Micaiah’s prophesy: <span class="Bible">Who will deceive Ahab?… Go out and do as you have proposed.</span> (cf. 2 Chronicles 18:18-22)
 - 2 Kings 5:17: Naaman: <span class="Bible">please give your servant a load of dirt … \[I] will never again offer a burnt offering or sacrifice to a god other than [Yahweh].</span>
 - 2 Kings 17:26-28: <span class="Bible">… they do not know the requirements of the God of the land.… one of the priests … from Samaria … taught them how to worship [Yahweh].</span>
