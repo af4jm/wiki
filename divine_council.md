@@ -97,7 +97,7 @@ by Dr. Ronn Johnson in [episode 1](https://www.youtube.com/watch?v=zXDY0OLRspU&l
 - Isaiah 40:1-2a: <span class="Bible">***Comfort***, O ***comfort*** My people, says your God. ***Speak*** to the heart of Jerusalem; And ***call out*** to her,</span> (plural verbs)
 - Psalm 82: the Council members are condemned for not upholding justice
 - Psalm 89:5-7: <span class="Bible">For who in the skies can compare to [Yahweh]?  Who is like [Yahweh] among the heavenly beings,</span>
-- 1 Corinthians 6:2-3: <span class="Bible">Or do you not know that the saints will judge the world? And if the world is to be judged by you, are you not competent to settle trivial suits? Do you not know that we will judge angels? Why not ordinary matters!</span>
+- 1 Corinthians 6:2-3: <span class="Bible">Or do you not know that the holy ones will judge the world? And if the world is to be judged by you, are you not competent to settle trivial suits? Do you not know that we will judge angels? Why not ordinary matters!</span>
 
 ### 1 Enoch 7–8
 
