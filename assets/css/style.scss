@@ -284,8 +284,6 @@ a[href^="#"] {
     color: var(--internal-link-color);
 }
 
-a[href^="logosres:"],
-a[href^="logos4:"],
 a[href^="https://ref.ly/logosres/"],
 a[href^="https://ref.ly/logos4"] {
     color: var(--logos-link-color);

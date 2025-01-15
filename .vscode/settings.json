@@ -37,10 +37,9 @@
     "markdown.validate.fileLinks.markdownFragmentLinks": "error",
     "markdown.validate.fragmentLinks.enabled": "error",
     "markdown.validate.ignoredLinks": [
-        "logos4:*",
-        "logosres:*",
+        "obsidian:*",
         "zotero:*"
-    ],
+],
     "markdown.validate.referenceLinks.enabled": "ignore",
     "markdown-mermaid.darkModeTheme": "neutral",
     "markdown-mermaid.lightModeTheme": "neutral",
