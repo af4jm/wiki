@@ -78,27 +78,27 @@ by Dr. Ronn Johnson in [episode 1](https://www.youtube.com/watch?v=zXDY0OLRspU&l
 
 ## key Bible verses (Bible quotes NET, except *)
 
-- Genesis 6:1-4: (cf. 1 Enoch 6–16 [chapters 7–8 below]) notes from [“More Unseen Realm”](https://www.moreunseenrealm.com)…
-    - The Old Testament never references Genesis 3 as the cause of human depravity. Instead, it is Genesis 6:5 that makes the sweeping statement about depravity.
+- <span class="bibleref">Genesis 6:1-4</span>: (cf. 1 Enoch 6–16 [chapters 7–8 below]) notes from [“More Unseen Realm”](https://www.moreunseenrealm.com)…
+    - The Old Testament never references <span class="bibleref">Genesis 3</span> as the cause of human depravity. Instead, it is <span class="bibleref">Genesis 6:5</span> that makes the sweeping statement about depravity.
     - Julius Africanus & Augustine changed the church view away from the supernatural & away from 1 Enoch, and originated what is now known as the Sethite view.
-    - cf. 1 Corinthians 11:10; 2 Peter 2:4-5,10; Jude 6
-- Genesis 10 – 70 nations, & the presumed number of members of God’s Divine Council\
-    cf. Exodus 24:1,9; Numbers 11:16; Luke 10:1
-- Leviticus 16:8-10: <span class="Bible">Aaron is to cast lots over the two goats, one lot for [Yahweh] and one lot for Azazel. Aaron must then present the goat which has been designated by lot for [Yahweh], and he is to make it a sin offering, but the goat which has been designated by lot for Azazel is to be stood alive before [Yahweh] to make atonement on it by sending it away into the desert to Azazel.</span>\
+    - cf. <span class="bibleref">1 Corinthians 11:10</span>; <span class="bibleref" title="2Pet 2:4-2:5,2Pet 2:10">2 Peter 2:4-5,10</span>; <span class="bibleref">Jude 6</span>
+- <span class="bibleref">Genesis 10</span> – 70 nations, & the presumed number of members of God’s Divine Council\
+    cf. <span class="bibleref" title="Exod 24:1,Exod 24:9">Exodus 24:1,9</span>; <span class="bibleref">Numbers 11:16</span>; <span class="bibleref">Luke 10:1</span>
+- <span class="bibleref">Leviticus 16:8-10</span>: <span class="Bible">Aaron is to cast lots over the two goats, one lot for [Yahweh] and one lot for Azazel. Aaron must then present the goat which has been designated by lot for [Yahweh], and he is to make it a sin offering, but the goat which has been designated by lot for Azazel is to be stood alive before [Yahweh] to make atonement on it by sending it away into the desert to Azazel.</span>\
     (not “scapegoat,” send the sin back to Azazel … Azazel was the leader of the Watchers, see 1 Enoch quote at the bottom of this page)
-- Deuteronomy 4:19-20: <span class="Bible">When you look up to the sky and see the sun, moon, and stars—the whole heavenly creation—you must not be seduced to worship and serve them, for [Yahweh] your God has assigned them to all the people of the world. You, however, [Yahweh] has selected and brought from Egypt, that iron-smelting furnace, to be his special people as you are today.</span>
-- Deuteronomy 32:8-9: <span class="Bible">When the Most High gave the nations their inheritance, when he divided up humankind, he set the boundaries of the peoples, according to the number of the heavenly assembly</span> <small>[or “sons of God”]</small><span class="Bible">. For [Yahweh]’s allotment is his people, Jacob is his special possession.</span>
-    - Sirach/<wbr/>Wisdom of Ben Sira/<wbr/>Ecclesiaticus 17:17: Over every nation he appointed a ruler, but Israel is the Lord’s own portion. (NABre)
-- Deuteronomy 32:17*: <span class="Bible">they sacrificed to demons, divine beings they had not known</span>
-- Deuteronomy 32:43*: <span class="Bible">Cry out, O *heavens*, with *him*, **bow down to him, all gods;** for he avenges his *children*’s blood, and takes vengeance against his enemies. **He repays those who hate him** and makes atonement for *his people’s land*. </span> <small>[**bold** missing from Masoretic Text]</small>
-- 1 Kings 22:19-22: Micaiah’s prophesy: <span class="Bible">Who will deceive Ahab?… Go out and do as you have proposed.</span> (cf. 2 Chronicles 18:18-22)
-- 2 Kings 5:17: Naaman: <span class="Bible">please give your servant a load of dirt … \[I] will never again offer a burnt offering or sacrifice to a god other than [Yahweh].</span>
-- 2 Kings 17:26-28: <span class="Bible">… they do not know the requirements of the God of the land.… one of the priests … from Samaria … taught them how to worship [Yahweh].</span>
-- Isaiah 6:8: <span class="Bible">Whom will I send? Who will go on our behalf?</span>
-- Isaiah 40:1-2a: <span class="Bible">***Comfort***, O ***comfort*** My people, says your God. ***Speak*** to the heart of Jerusalem; And ***call out*** to her,</span> (plural verbs)
-- Psalm 82: the Council members are condemned for not upholding justice
-- Psalm 89:5-7: <span class="Bible">For who in the skies can compare to [Yahweh]?  Who is like [Yahweh] among the heavenly beings,</span>
-- 1 Corinthians 6:2-3: <span class="Bible">Or do you not know that the holy ones will judge the world? And if the world is to be judged by you, are you not competent to settle trivial suits? Do you not know that we will judge angels? Why not ordinary matters!</span>
+- <span class="bibleref">Deuteronomy 4:19-20</span>: <span class="Bible">When you look up to the sky and see the sun, moon, and stars—the whole heavenly creation—you must not be seduced to worship and serve them, for [Yahweh] your God has assigned them to all the people of the world. You, however, [Yahweh] has selected and brought from Egypt, that iron-smelting furnace, to be his special people as you are today.</span>
+- <span class="bibleref">Deuteronomy 32:8-9</span>: <span class="Bible">When the Most High gave the nations their inheritance, when he divided up humankind, he set the boundaries of the peoples, according to the number of the heavenly assembly</span> <small>[or “sons of God”]</small><span class="Bible">. For [Yahweh]’s allotment is his people, Jacob is his special possession.</span>
+    - <span class="bibleref" title="Sir 17:17">Sirach/<wbr/>Wisdom of Ben Sira/<wbr/>Ecclesiaticus 17:17</span>: Over every nation he appointed a ruler, but Israel is the Lord’s own portion. (NABre)
+- <span class="bibleref">Deuteronomy 32:17</span>*: <span class="Bible">they sacrificed to demons, divine beings they had not known</span>
+- <span class="bibleref">Deuteronomy 32:43</span>*: <span class="Bible">Cry out, O *heavens*, with *him*, **bow down to him, all gods;** for he avenges his *children*’s blood, and takes vengeance against his enemies. **He repays those who hate him** and makes atonement for *his people’s land*. </span> <small>[**bold** missing from Masoretic Text]</small>
+- <span class="bibleref">1 Kings 22:19-22</span>: Micaiah’s prophesy: <span class="Bible">Who will deceive Ahab?… Go out and do as you have proposed.</span> (cf. 2 Chronicles 18:18-22)
+- <span class="bibleref">2 Kings 5:17</span>: Naaman: <span class="Bible">please give your servant a load of dirt … \[I] will never again offer a burnt offering or sacrifice to a god other than [Yahweh].</span>
+- <span class="bibleref">2 Kings 17:26-28</span>: <span class="Bible">… they do not know the requirements of the God of the land.… one of the priests … from Samaria … taught them how to worship [Yahweh].</span>
+- <span class="bibleref">Isaiah 6:8</span>: <span class="Bible">Whom will I send? Who will go on our behalf?</span>
+- <span class="bibleref">Isaiah 40:1-2</span>a: <span class="Bible">***Comfort***, O ***comfort*** My people, says your God. ***Speak*** to the heart of Jerusalem; And ***call out*** to her,</span> (plural verbs)
+- <span class="bibleref">Psalm 82</span>: the Council members are condemned for not upholding justice
+- <span class="bibleref">Psalm 89:5-7</span>: <span class="Bible">For who in the skies can compare to [Yahweh]? Who is like [Yahweh] among the heavenly beings,</span>
+- <span class="bibleref">1 Corinthians 6:2-3</span>: <span class="Bible">Or do you not know that the holy ones will judge the world? And if the world is to be judged by you, are you not competent to settle trivial suits? Do you not know that we will judge angels? Why not ordinary matters!</span>
 
 ### 1 Enoch 7–8
 
@@ -107,3 +107,25 @@ by Dr. Ronn Johnson in [episode 1](https://www.youtube.com/watch?v=zXDY0OLRspU&l
 <b>7</b> <sup>1</sup> And all the others together with them took unto themselves wives, and each chose for himself one, and they began to go in unto them and to defile themselves with them, and they taught them charms and enchantments, and the cutting of roots, and made them acquainted with plants. <sup>2</sup> And they became pregnant, and they bare great giants, whose height was three thousand ells: <sup>3</sup> Who consumed all the acquisitions of men. <sup>4</sup> And when men could no longer sustain them, the giants turned against them and devoured mankind. <sup>5</sup> And they began to sin against birds, and beasts, and reptiles, and fish, and to devour one another’s flesh, and drink the blood. <sup>6</sup> Then the earth laid accusation against the lawless ones.
 
 <b>8</b> <sup>1</sup> And Azâzêl taught men to make swords, and knives, and shields, and breastplates, and made known to them the metals of the earth and the art of working them, and bracelets, and ornaments, and the use of antimony, and the beautifying of the eyelids, and all kinds of costly stones, and all coloring tinctures. <sup>2</sup> And there arose much godlessness, and they committed fornication, and they were led astray, and became corrupt in all their ways. <sup>3</sup> Semjâzâ taught enchantments, and root-cuttings, Armârôs the resolving of enchantments, Barâqîjâl astrology, Kôkabêl the constellations, Êzêqêêl the knowledge of the clouds, Araqiêl the signs of the earth, Shamsiêl the signs of the sun, and Sariêl the course of the moon. <sup>4</sup> And as men perished, they cried, and their cry went up to heaven …
+
+<script>
+    var refTagger = {
+        settings: {
+            addLogosLink: true,
+            bibleReader: "bible.faithlife",
+            bibleVersion: "ESV",
+            logosLinkIcon: "dark",
+            noSearchTagNames: [],
+            socialSharing: ["twitter","facebook","google"],
+            tooltipStyle: "dark",
+        }
+    };
+    (function(d, t) {
+        var n=d.querySelector("[nonce]");
+        refTagger.settings.nonce = n && (n.nonce||n.getAttribute("nonce"));
+        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
+        g.src = "https://api.reftagger.com/v2/RefTagger.js";
+        g.nonce = refTagger.settings.nonce;
+        s.parentNode.insertBefore(g, s);
+    }(document, "script"));
+</script>
