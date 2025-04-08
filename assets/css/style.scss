@@ -363,6 +363,10 @@ a[href^="."][href*="/tag/sport/soccer/"]:not([href$="soccer/README.md"]) {
     font-style: italic;
 }
 
+cite.bibleref {
+    font-style: inherit;
+}
+
 /* italics inside of italics should not be italicized */
 *[lang] > cite,
 *[lang] > dfn,
