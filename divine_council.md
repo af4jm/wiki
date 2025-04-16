@@ -102,7 +102,7 @@ by Dr. Ronn Johnson in [episode 1](https://www.youtube.com/watch?v=zXDY0OLRspU&l
 
 ### 1 Enoch 7–8
 
-<small>English translation by R.H. Charles (<time>1913</time>)</small>
+<small>English translation by R.H. Charles (<time>1913</time>)<!-- https://ref.ly/logosres/chaspot?ref=Pseudepigrapha.1+En --></small>
 
 <b>7</b> <sup>1</sup> And all the others together with them took unto themselves wives, and each chose for himself one, and they began to go in unto them and to defile themselves with them, and they taught them charms and enchantments, and the cutting of roots, and made them acquainted with plants. <sup>2</sup> And they became pregnant, and they bare great giants, whose height was three thousand ells: <sup>3</sup> Who consumed all the acquisitions of men. <sup>4</sup> And when men could no longer sustain them, the giants turned against them and devoured mankind. <sup>5</sup> And they began to sin against birds, and beasts, and reptiles, and fish, and to devour one another’s flesh, and drink the blood. <sup>6</sup> Then the earth laid accusation against the lawless ones.
 
