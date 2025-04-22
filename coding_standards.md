@@ -21,10 +21,10 @@ This was written in 2015, much of this is obsolete. I changed the name of the co
 ## Maintainability
 
 - avoid putting T-SQL outside the database, JavaScript outside .js files, and CSS outside .css files; in html, avoid `javascript:` or wiring event handlers in attributes and avoid `style=""` attributes
-    - script tags should usually appear just before the `</body>` tag unless there’s a necessity to put them higher or in the header, and should always be of the form `<script type="text/javascript" src=""></script>` instead of `<script type="text/javascript">// JS code here</script>`
+    - script tags should usually appear just before the `</body>` tag unless there’s a necessity to put them higher or in the header, and should always be of the form `<script type="text/javascript" src=""></script>` instead of `<script type="text/javascript">/* JS code here */</script>`
         - exception: `modernizr.js` only works inside `<head>`
-    - style tags should always be of the form `<link rel="stylesheet" href="theme.css"/>` (which must be inside the `<head>`) instead of `<style>// CSS code here</style>`
-        - exception: once it becomes widely adopted (it’s new to HTML5 and currently supported only by FireFox), `<style type="text/css" scoped="scoped">// CSS code here</style>` in the `<body>` will become an acceptable alternate to `style=""` attributes, the scoped attribute limits the contained styles to the parent object of the style tag and all descendants of that parent object
+    - style tags should always be of the form `<link rel="stylesheet" href="theme.css"/>` (which must be inside the `<head>`) instead of `<style>/* CSS code here */</style>`
+        - exception: once it becomes widely adopted (it’s new to HTML5 and currently supported only by FireFox), `<style type="text/css" scoped="scoped">/* CSS code here */</style>` in the `<body>` will become an acceptable alternate to `style=""` attributes, the scoped attribute limits the contained styles to the parent object of the style tag and all descendants of that parent object
 - always call `Dispose()` on all objects that implement `IDisposable`, that are either instantiated or returned from function calls, unless it’s being returned from that function. In C# this is typically done with a `using` block.
 - avoid referencing namespace `System.Data` outside data access classes and namespace `System.Web` outside of UI-specific classes, in both cases this includes child namespaces
     - exception: MVC and WebAPI require these references in many of their plumbing classes, which are not strictly UI-specific, but should always be in the main web project, or in an Areas project
