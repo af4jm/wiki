@@ -517,11 +517,17 @@ abbr.lang {
     margin-inline-start: 1em;
 }
 
-.clearl {
+.clearl,
+li:has(span.floatstart) ul,
+li:has(span.floatstart) ol,
+li:has(span.floatstart) + li {
     clear: left;
 }
 
-.clearl {
+.clearl,
+li:has(span.floatstart) ul,
+li:has(span.floatstart) ol,
+li:has(span.floatstart) + li {
     clear: inline-start;
 }
 
@@ -529,11 +535,17 @@ abbr.lang {
     clear: both;
 }
 
-.clearr {
+.clearr,
+li:has(span.floatend) ul,
+li:has(span.floatend) ol,
+li:has(span.floatend) + li {
     clear: right;
 }
 
-.clearr {
+.clearr,
+li:has(span.floatend) ul,
+li:has(span.floatend) ol,
+li:has(span.floatend) + li {
     clear: inline-end;
 }
 
