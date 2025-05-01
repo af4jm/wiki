@@ -288,8 +288,7 @@ a[href^="#"] {
     color: var(--internal-link-color);
 }
 
-a[href^="https://ref.ly/logosres/"],
-a[href^="https://ref.ly/logos4"] {
+a[href^="https://ref.ly/"] {
     color: var(--logos-link-color);
 }
 
@@ -339,7 +338,7 @@ a[href^="."][href*="/tag/lang/"]:not([href$="lang/README.md"]) code {
     background-color: inherit !important;
 }
 
-a[href^="."][href*="/tag/jesus/logos"],
+a[href^="."][href*="/tag/logos"],
 a[href^="."][href*="/tag/kindle"] {
     color: var(--reading-tag-color);
 }
