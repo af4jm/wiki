@@ -339,7 +339,8 @@ a[href^="."][href*="/tag/lang/"]:not([href$="lang/README.md"]) code {
 }
 
 a[href^="."][href*="/tag/logos"],
-a[href^="."][href*="/tag/kindle"] {
+a[href^="."][href*="/tag/kindle"],
+a[href^="."][href*="/tag/ebook"] {
     color: var(--reading-tag-color);
 }
 
