@@ -78,28 +78,28 @@ by Dr. Ronn Johnson in [episode 1](https://www.youtube.com/watch?v=zXDY0OLRspU&l
 
 ## key Bible verses (Bible quotes NET, except *)
 
-- <cite class="bibleref">Genesis 6:1-4</cite>: (cf. 1 Enoch 6–16 [chapters 7–8 below]) notes from [“More Unseen Realm”](https://www.moreunseenrealm.com)…
-    - The Old Testament never references <cite class="bibleref" title="Gen 3:1-24">Genesis 3</cite> as the cause of human depravity. Instead, it is <cite class="bibleref">Genesis 6:5</cite> that makes the sweeping statement about depravity.
+- <b class="bibleref">Genesis 6:1-4</b>: (cf. 1 Enoch 6–16 [chapters 7–8 below]) notes from [“More Unseen Realm”](https://www.moreunseenrealm.com)…
+    - The Old Testament never references <span class="bibleref" title="Gen 3:1-24">Genesis 3</span> as the cause of human depravity. Instead, it is <span class="bibleref">Genesis 6:5</span> that makes the sweeping statement about depravity.
     - Julius Africanus & Augustine changed the church view away from the supernatural & away from 1 Enoch, and originated what is now known as the Sethite view.
-    - cf. <cite class="bibleref">1 Corinthians 11:10</cite>; <cite class="bibleref" title="2Pet 2:4-10">2 Peter 2:4-5,10</cite>; <cite class="bibleref">Jude 6</cite>
-- <cite class="bibleref" title="Gen 10:1-32">Genesis 10</cite> – 70 nations <small>(72 in the Septuagint [ⅬⅩⅩ])</small>, the presumed number of members of God’s Divine Council\
-    cf. <cite class="bibleref" title="Exod 24:1-9">Exodus 24:1,9</cite>; <cite class="bibleref">Numbers 11:16</cite>; <cite class="bibleref">Luke 10:1</cite>
-- <cite class="bibleref">Leviticus 16:8-10</cite>: <span class="Bible">Aaron is to cast lots over the two goats, one lot for [Yahweh] and one lot for Azazel. Aaron must then present the goat which has been designated by lot for [Yahweh], and he is to make it a sin offering, but the goat which has been designated by lot for Azazel is to be stood alive before [Yahweh] to make atonement on it by sending it away into the desert to Azazel.</span>
+    - cf. <span class="bibleref">1 Corinthians 11:10</span>; <span class="bibleref" title="2Pet 2:4-5; 2Pet 2:10">2 Peter 2:4-5,10</span>; <span class="bibleref">Jude 6</span>
+- <b class="bibleref" title="Gen 10:1-32">Genesis 10</b> – 70 nations <small>(72 in the Septuagint [ⅬⅩⅩ])</small>, the presumed number of members of God’s Divine Council\
+    cf. <span class="bibleref" title="Exod 24:1; Exod 24:9">Exodus 24:1,9</span>; <span class="bibleref">Numbers 11:16</span>; <span class="bibleref">Luke 10:1</span>
+- <b class="bibleref">Leviticus 16:8-10</b>: <span class="Bible">Aaron is to cast lots over the two goats, one lot for [Yahweh] and one lot for Azazel. Aaron must then present the goat which has been designated by lot for [Yahweh], and he is to make it a sin offering, but the goat which has been designated by lot for Azazel is to be stood alive before [Yahweh] to make atonement on it by sending it away into the desert to Azazel.</span>
     - not “scapegoat,” send the sin back to Azazel … Azazel was the leader of the Watchers, see 1 Enoch quote at the bottom of this page
-- <cite class="bibleref">Deuteronomy 4:19-20</cite>: <span class="Bible">When you look up to the sky and see the sun, moon, and stars—the whole heavenly creation—you must not be seduced to worship and serve them, for [Yahweh] your God has assigned them to all the people of the world. You, however, [Yahweh] has selected and brought from Egypt, that iron-smelting furnace, to be his special people as you are today.</span>
-- <cite class="bibleref">Deuteronomy 32:8-9</cite>: <span class="Bible">When the Most High gave the nations their inheritance, when he divided up humankind, he set the boundaries of the peoples, according to the number of the heavenly assembly</span> <small>[or “sons of God”]</small><span class="Bible">. For [Yahweh]’s allotment is his people, Jacob is his special possession.</span>
-    - <cite class="bibleref" title="Sir 17:17">Sirach/​Wisdom of Ben Sira/​Ecclesiaticus 17:17</cite>: Over every nation he appointed a ruler, but Israel is the Lord’s own portion. (NABre)
-- <cite class="bibleref">Deuteronomy 32:17</cite>*: <span class="Bible">they sacrificed to demons, divine beings they had not known</span>
-- <cite class="bibleref">Deuteronomy 32:43</cite>*: <span class="Bible">Cry out, O *heavens*, with *him*, **bow down to him, all gods;** for he avenges his *children*’s blood, and takes vengeance against his enemies. **He repays those who hate him** and makes atonement for *his people’s land*.</span>
+- <b class="bibleref">Deuteronomy 4:19-20</b>: <span class="Bible">When you look up to the sky and see the sun, moon, and stars—the whole heavenly creation—you must not be seduced to worship and serve them, for [Yahweh] your God has assigned them to all the people of the world. You, however, [Yahweh] has selected and brought from Egypt, that iron-smelting furnace, to be his special people as you are today.</span>
+- <b class="bibleref">Deuteronomy 32:8-9</b>: <span class="Bible">When the Most High gave the nations their inheritance, when he divided up humankind, he set the boundaries of the peoples, according to the number of the heavenly assembly</span> <small>[or “sons of God”]</small><span class="Bible">. For [Yahweh]’s allotment is his people, Jacob is his special possession.</span>
+    - <span class="bibleref apocrypha" title="Sir 17:17">Sirach/​Wisdom of Ben Sira/​Ecclesiaticus 17:17</span>: Over every nation he appointed a ruler, but Israel is the Lord’s own portion. (NABre)
+- <span class="bibleref">Deuteronomy 32:17</span>*: <span class="Bible">they sacrificed to demons, divine beings they had not known</span>
+- <span class="bibleref">Deuteronomy 32:43</span>*: <span class="Bible">Cry out, O *heavens*, with *him*, **bow down to him, all gods;** for he avenges his *children*’s blood, and takes vengeance against his enemies. **He repays those who hate him** and makes atonement for *his people’s land*.</span>
     - <small>**bold** missing from Masoretic Text (authoritative source of the Hebrew Bible in Rabbinic Judaism)</small>
-- <cite class="bibleref">1 Kings 22:19-22</cite>: Micaiah’s prophesy: <span class="Bible">Who will deceive Ahab?… Go out and do as you have proposed.</span> (cf. 2 Chronicles 18:18-22)
-- <cite class="bibleref">2 Kings 5:17</cite>: Naaman: <span class="Bible">please give your servant a load of dirt … \[I] will never again offer a burnt offering or sacrifice to a god other than [Yahweh].</span>
-- <cite class="bibleref">2 Kings 17:26-28</cite>: <span class="Bible">… they do not know the requirements of the God of the land.… one of the priests … from Samaria … taught them how to worship [Yahweh].</span>
-- <cite class="bibleref">Isaiah 6:8</cite>: <span class="Bible">Whom will I send? Who will go on our behalf?</span>
-- <cite class="bibleref" title="Isa 40:1-2">Isaiah 40:1-2a</cite>: <span class="Bible">***Comfort***, O ***comfort*** My people, says your God. ***Speak*** to the heart of Jerusalem; And ***call out*** to her,</span> (plural verbs)
-- <cite class="bibleref" title="Ps 82:1-8">Psalm 82</cite>: the Council members are condemned for not upholding justice
-- <cite class="bibleref">Psalm 89:5-7</cite>: <span class="Bible">For who in the skies can compare to [Yahweh]? Who is like [Yahweh] among the heavenly beings,</span>
-- <cite class="bibleref">1 Corinthians 6:2-3</cite>: <span class="Bible">Or do you not know that the holy ones will judge the world? And if the world is to be judged by you, are you not competent to settle trivial suits? Do you not know that we will judge angels? Why not ordinary matters!</span>
+- <b class="bibleref">1 Kings 22:19-22</b>: Micaiah’s prophesy: <span class="Bible">Who will deceive Ahab?… Go out and do as you have proposed.</span> (cf. 2 Chronicles 18:18-22)
+- <b class="bibleref">2 Kings 5:17</b>: Naaman: <span class="Bible">please give your servant a load of dirt … \[I] will never again offer a burnt offering or sacrifice to a god other than [Yahweh].</span>
+- <b class="bibleref">2 Kings 17:26-28</b>: <span class="Bible">… they do not know the requirements of the God of the land.… one of the priests … from Samaria … taught them how to worship [Yahweh].</span>
+- <b class="bibleref">Isaiah 6:8</b>: <span class="Bible">Whom will I send? Who will go on our behalf?</span>
+- <b class="bibleref" title="Isa 40:1-2">Isaiah 40:1-2a</b>: <span class="Bible">***Comfort***, O ***comfort*** My people, says your God. ***Speak*** to the heart of Jerusalem; And ***call out*** to her,</span> (plural verbs)
+- <b class="bibleref" title="Ps 82:1-8">Psalm 82</b>: the Council members are condemned for not upholding justice
+- <b class="bibleref">Psalm 89:5-7</b>: <span class="Bible">For who in the skies can compare to [Yahweh]? Who is like [Yahweh] among the heavenly beings,</span>
+- <b class="bibleref">1 Corinthians 6:2-3</b>: <span class="Bible">Or do you not know that the holy ones will judge the world? And if the world is to be judged by you, are you not competent to settle trivial suits? Do you not know that we will judge angels? Why not ordinary matters!</span>
 
 ### 1 Enoch 7–8
 
