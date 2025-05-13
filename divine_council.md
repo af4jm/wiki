@@ -82,8 +82,8 @@ by Dr. Ronn Johnson in [episode 1](https://www.youtube.com/watch?v=zXDY0OLRspU&l
     - The Old Testament never references <span class="bibleref" title="Genesis 3:1-24">Genesis 3</span> as the cause of human depravity. Instead, it is <span class="bibleref">Genesis 6:5</span> that makes the sweeping statement about depravity.
     - Julius Africanus & Augustine changed the church view away from the supernatural & away from 1 Enoch, and originated what is now known as the Sethite view.
     - cf. <span class="bibleref">1 Corinthians 11:10</span>; <span class="bibleref" title="2 Peter 2:4-5; 2 Peter 2:10">2 Peter 2:4-5,10</span>; <span class="bibleref">Jude 6</span>
-- <b class="bibleref" title="Genesis 10:1-32">Genesis 10</b> – 70 nations <small>(72 in the Septuagint [ⅬⅩⅩ])</small>, the presumed number of members of God’s Divine Council\
-    cf. <span class="bibleref" title="Exodus 24:1; Exodus 24:9">Exodus 24:1,9</span>; <span class="bibleref">Numbers 11:16</span>; <span class="bibleref">Luke 10:1</span>
+- <b class="bibleref" title="Genesis 10:1-32">Genesis 10</b> – 70 nations <small>(72 in the Septuagint [ⅬⅩⅩ])</small>, the presumed number of members of God’s Divine Council
+    - cf. <span class="bibleref" title="Exodus 24:1; Exodus 24:9">Exodus 24:1,9</span>; <span class="bibleref">Numbers 11:16</span>; <span class="bibleref">Luke 10:1</span>
 - <b class="bibleref">Leviticus 16:8-10</b>: <span class="Bible">Aaron is to cast lots over the two goats, one lot for [Yahweh] and one lot for Azazel. Aaron must then present the goat which has been designated by lot for [Yahweh], and he is to make it a sin offering, but the goat which has been designated by lot for Azazel is to be stood alive before [Yahweh] to make atonement on it by sending it away into the desert to Azazel.</span>
     - not “scapegoat,” send the sin back to Azazel … Azazel was the leader of the Watchers, see 1 Enoch quote at the bottom of this page
 - <b class="bibleref">Deuteronomy 4:19-20</b>: <span class="Bible">When you look up to the sky and see the sun, moon, and stars—the whole heavenly creation—you must not be seduced to worship and serve them, for [Yahweh] your God has assigned them to all the people of the world. You, however, [Yahweh] has selected and brought from Egypt, that iron-smelting furnace, to be his special people as you are today.</span>
@@ -91,7 +91,7 @@ by Dr. Ronn Johnson in [episode 1](https://www.youtube.com/watch?v=zXDY0OLRspU&l
     - <span class="bibleref" title="NRSV Sirach 17:17">Sirach/​Wisdom of Ben Sira/​Ecclesiaticus 17:17</span>: He appointed a ruler for every nation, but Israel is the Lord’s own portion. (NRSV)
 - <span class="bibleref">Deuteronomy 32:17</span>*: <span class="Bible">they sacrificed to demons, divine beings they had not known</span>
 - <span class="bibleref">Deuteronomy 32:43</span>*: <span class="Bible">Cry out, O *heavens*, with *him*, **bow down to him, all gods;** for he avenges his *children*’s blood, and takes vengeance against his enemies. **He repays those who hate him** and makes atonement for *his people’s land*.</span>
-    - <small>**bold** missing from Masoretic Text (authoritative source of the Hebrew Bible in Rabbinic Judaism)</small>
+    - **bold** sections were removed in the Masoretic Text (authoritative source of the Hebrew Bible in Rabbinic Judaism)
 - <b class="bibleref">1 Kings 22:19-22</b>: Micaiah’s prophesy: <span class="Bible">Who will deceive Ahab?… Go out and do as you have proposed.</span> (cf. 2 Chronicles 18:18-22)
 - <b class="bibleref">2 Kings 5:17</b>: Naaman: <span class="Bible">please give your servant a load of dirt … \[I] will never again offer a burnt offering or sacrifice to a god other than [Yahweh].</span>
 - <b class="bibleref">2 Kings 17:26-28</b>: <span class="Bible">… they do not know the requirements of the God of the land.… one of the priests … from Samaria … taught them how to worship [Yahweh].</span>
