@@ -47,6 +47,7 @@ body {
 
 .hidden {
     display: none;
+    visibility: hidden;
 }
 
 .inline {
@@ -93,7 +94,7 @@ h2 {
 }
 
 h2 {
-    padding-inline-start: 0.84rem;
+    padding-inline-start: 0.85rem;
 }
 
 h3 {
@@ -103,7 +104,7 @@ h3 {
 }
 
 h3 {
-    padding-inline-start: 0.68rem;
+    padding-inline-start: 0.70rem;
 }
 
 h4 {
@@ -113,7 +114,7 @@ h4 {
 }
 
 h4 {
-    padding-inline-start: 0.52rem;
+    padding-inline-start: 0.55rem;
 }
 
 h5 {
@@ -123,7 +124,7 @@ h5 {
 }
 
 h5 {
-    padding-inline-start: 0.36rem;
+    padding-inline-start: 0.40rem;
 }
 
 h6 {
@@ -133,7 +134,7 @@ h6 {
 }
 
 h6 {
-    padding-inline-start: 0.20rem;
+    padding-inline-start: 0.25rem;
 }
 
 p b.h,
@@ -145,7 +146,7 @@ p i.h {
 
 p b.h,
 p i.h {
-    padding-inline-start: 0.04rem;
+    padding-inline-start: 0.10rem;
 }
 
 blockquote {
@@ -290,64 +291,6 @@ a[href^="#"] {
 
 a[href^="https://ref.ly/"] {
     color: var(--logos-link-color);
-}
-
-a[href^="zotero:"],
-a[href^="https://www.zotero.org/af4jm"],
-a[href="#"] {
-    color: var(--zotero-link-color);
-}
-
-a[href^="."][href*="/tag/"]:not([href$="tag/README.md"]) {
-    display: inline-block;
-    padding: 0 .5em;
-    border-radius: 1em;
-    border-style: solid;
-    border-width: 2px;
-}
-
-a[href^="."][href*="/tag/_"] {
-    color: var(--_-tag-color);
-}
-
-a[href^="."][href*="/tag/@"] {
-    color: var(--at-tag-color);
-}
-
-a[href^="."][href*="/tag/+"] {
-    color: var(--plus-tag-color);
-}
-
-a[href^="."][href*="/tag/$"],
-a[href^="."][href*="/tag/to_"],
-a[href^="."][href*="/tag/in_progress"],
-a[href^="."][href*="/tag/_tickler"] {
-    color: var(--dollar-tag-color);
-}
-
-a[href^="."][href*="/tag/jesus/bible/"] {
-    color: var(--bible-tag-color);
-}
-
-a[href^="."][href*="/tag/lang/"]:not([href$="lang/README.md"]) {
-    color: var(--lang-tag-color);
-}
-
-a[href^="."][href*="/tag/lang/"]:not([href$="lang/README.md"]) code {
-    color: var(--lang-tag-code-color);
-    background-color: inherit !important;
-}
-
-a[href^="."][href*="/tag/logos"],
-a[href^="."][href*="/tag/kindle"],
-a[href^="."][href*="/tag/ebook"] {
-    color: var(--reading-tag-color);
-}
-
-a[href^="."][href*="/tag/sport/football/"]:not([href$="football/README.md"]),
-a[href^="."][href*="/tag/sport/motor/"]:not([href$="motor/README.md"]):not([href$="motor/enduro.md"]):not([href$="motor/local.md"]),
-a[href^="."][href*="/tag/sport/soccer/"]:not([href$="soccer/README.md"]) {
-    color: var(--sport-tag-color);
 }
 
 *[lang]:not(:lang(en)) {
