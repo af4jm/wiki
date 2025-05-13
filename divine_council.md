@@ -108,27 +108,3 @@ by Dr. Ronn Johnson in [episode 1](https://www.youtube.com/watch?v=zXDY0OLRspU&l
 <b>7</b> <sup>1</sup> And all the others together with them took unto themselves wives, and each chose for himself one, and they began to go in unto them and to defile themselves with them, and they taught them charms and enchantments, and the cutting of roots, and made them acquainted with plants. <sup>2</sup> And they became pregnant, and they bare great giants, whose height was three thousand ells: <sup>3</sup> Who consumed all the acquisitions of men. <sup>4</sup> And when men could no longer sustain them, the giants turned against them and devoured mankind. <sup>5</sup> And they began to sin against birds, and beasts, and reptiles, and fish, and to devour one another’s flesh, and drink the blood. <sup>6</sup> Then the earth laid accusation against the lawless ones.
 
 <b>8</b> <sup>1</sup> And Azâzêl taught men to make swords, and knives, and shields, and breastplates, and made known to them the metals of the earth and the art of working them, and bracelets, and ornaments, and the use of antimony, and the beautifying of the eyelids, and all kinds of costly stones, and all coloring tinctures. <sup>2</sup> And there arose much godlessness, and they committed fornication, and they were led astray, and became corrupt in all their ways. <sup>3</sup> Semjâzâ taught enchantments, and root-cuttings, Armârôs the resolving of enchantments, Barâqîjâl astrology, Kôkabêl the constellations, Êzêqêêl the knowledge of the clouds, Araqiêl the signs of the earth, Shamsiêl the signs of the sun, and Sariêl the course of the moon. <sup>4</sup> And as men perished, they cried, and their cry went up to heaven …
-
-<script>
-    var refTagger = {
-        settings: {
-            addLogosLink: true,
-            bibleReader: "bible.faithlife",
-            bibleVersion: "ESV",
-            logosLinkIcon: "dark",
-            noSearchTagNames: [],
-            roundCorners: true,
-            socialSharing: ["twitter","facebook","google"],
-            tooltipStyle: "dark",
-            tagChapters: true,
-        }
-    };
-    (function(d, t) {
-        var n=d.querySelector("[nonce]");
-        refTagger.settings.nonce = n && (n.nonce||n.getAttribute("nonce"));
-        var g = d.createElement(t), s = d.getElementsByTagName(t)[0];
-        g.src = "https://api.reftagger.com/v2/RefTagger.js";
-        g.nonce = refTagger.settings.nonce;
-        s.parentNode.insertBefore(g, s);
-    }(document, "script"));
-</script>
