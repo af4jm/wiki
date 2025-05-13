@@ -82,7 +82,7 @@ by Dr. Ronn Johnson in [episode 1](https://www.youtube.com/watch?v=zXDY0OLRspU&l
     - The Old Testament never references <cite class="bibleref" title="Gen 3:1-24">Genesis 3</cite> as the cause of human depravity. Instead, it is <cite class="bibleref">Genesis 6:5</cite> that makes the sweeping statement about depravity.
     - Julius Africanus & Augustine changed the church view away from the supernatural & away from 1 Enoch, and originated what is now known as the Sethite view.
     - cf. <cite class="bibleref">1 Corinthians 11:10</cite>; <cite class="bibleref" title="2Pet 2:4-10">2 Peter 2:4-5,10</cite>; <cite class="bibleref">Jude 6</cite>
-- <cite class="bibleref" title="Gen 10:1-32">Genesis 10</cite> – 70 nations, & the presumed number of members of God’s Divine Council\
+- <cite class="bibleref" title="Gen 10:1-32">Genesis 10</cite> – 70 nations <small>(72 in the Septuagint [ⅬⅩⅩ])</small>, the presumed number of members of God’s Divine Council\
     cf. <cite class="bibleref" title="Exod 24:1-9">Exodus 24:1,9</cite>; <cite class="bibleref">Numbers 11:16</cite>; <cite class="bibleref">Luke 10:1</cite>
 - <cite class="bibleref">Leviticus 16:8-10</cite>: <span class="Bible">Aaron is to cast lots over the two goats, one lot for [Yahweh] and one lot for Azazel. Aaron must then present the goat which has been designated by lot for [Yahweh], and he is to make it a sin offering, but the goat which has been designated by lot for Azazel is to be stood alive before [Yahweh] to make atonement on it by sending it away into the desert to Azazel.</span>\
     (not “scapegoat,” send the sin back to Azazel … Azazel was the leader of the Watchers, see 1 Enoch quote at the bottom of this page)
