@@ -6,6 +6,11 @@ _site
 .jekyll-metadata
 vendor
 
+##### Libre Office #####
+
+# LibreOffice locks
+.~lock.*#
+
 ##### Notepad++ #####
 
 # Notepad++ backups #

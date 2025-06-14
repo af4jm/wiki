@@ -1,4 +1,16 @@
 {
+    "chat.agent.enabled": false,
+    "chat.commandCenter.enabled": false,
+    "cSpell.customDictionaries": {
+        "project-words": {
+            "name": "project-words",
+            "path": "./.vscode/spellright.dict",
+            "description": "Words used in this project",
+            "addWords": true
+        },
+        "custom": true
+    },
+    "diffEditor.renderSideBySide": true,
     "editor.acceptSuggestionOnEnter": "off",
     "editor.detectIndentation": false,
     "editor.fontFamily": "'Noto Sans Mono', Consolas, 'Courier New', monospace",
@@ -24,28 +36,28 @@
         "*.snippet": "snippet",
         "*.xhtml": "xml"
     },
+    "files.encoding": "utf8",
     "files.eol": "\r\n",
     "files.trimTrailingWhitespace": true,
-    "markdown.editor.pasteUrlAsFormattedLink.enabled": "smart",
     "markdown.preferredMdPathExtensionStyle": "includeExtension",
     "markdown.styles": [
         "assets\\css\\style.scss"
     ],
     "markdown.suggest.paths.includeWorkspaceHeaderCompletions": "onSingleOrDoubleHash",
+    "markdown.updateLinksOnFileMove.enabled": "always",
     "markdown.validate.enabled": true,
     "markdown.validate.fileLinks.enabled":"error",
     "markdown.validate.fileLinks.markdownFragmentLinks": "error",
     "markdown.validate.fragmentLinks.enabled": "error",
-    "markdown.validate.ignoredLinks": [
-        "obsidian:*",
-        "zotero:*"
-],
     "markdown.validate.referenceLinks.enabled": "ignore",
     "markdown-mermaid.darkModeTheme": "neutral",
     "markdown-mermaid.lightModeTheme": "neutral",
     "markdownlint.config": {
         "extends": ".markdownlint.json"
     },
+    "markdownlint.customRules": [
+        "./node_modules/markdownlint-rule-olstart/rule.js"
+    ],
     "markdownShortcuts.bold.marker": "**",
     "markdownShortcuts.bullets.marker": "-",
     "markdownShortcuts.italics.marker": "*",
@@ -69,13 +81,18 @@
     "spellright.addToSystemDictionary": false,
     "spellright.configurationUpdate": false,
     "spellright.documentTypes": [
-        "markdown"
+        "code",
+        "latex",
+        "markdown",
+        "plain",
+        "xml"
     ],
     "spellright.groupDictionaries": true,
     "spellright.ignoreRegExpsByClass": {
         "markdown": [
-            "/(\\.?)(gif|jpg|md|pdf|png)/g",
-            "/&(amp|gt|lt|nbsp);/g"
+            "/\\]\\(.*?\\)/gm",
+            "/(\\.?)(gif|jpg|md|pdf|png|webp)/gm",
+            "/&(amp|gt|lt|nbsp);/gm"
         ],
     },
     "spellright.language": [
@@ -85,7 +102,27 @@
         "he"
     ],
     "spellright.notificationClass": "warning",
+    "spellright.parserByClass": {
+        "markdown": {
+            "parser": "markdown"
+        }
+    },
+    "spellright.suggestionsInHints": false,
+    "spellright.useDocumentSymbolsInCode": true,
     "terminal.integrated.hideOnStartup": "always",
+    "vsicons.associations.folders": [
+        {
+            "icon": "route",
+            "extensions": [
+                "route",
+                "routes",
+                "_route",
+                "_routes"
+            ],
+            "format": "svg",
+            "overrides": "route"
+        }
+    ],
     "workbench.colorCustomizations": {
         "activityBar.activeBackground": "#7cb7ec",
         "activityBar.background": "#7cb7ec",
@@ -108,20 +145,11 @@
     "workbench.editor.autoLockGroups": {
         "mainThreadWebview-markdown.preview": true
     },
-    "workbench.editor.preventPinnedEditorClose": "keyboardAndMouse",
-    "[html]": {
-        "editor.fontFamily": "'Noto Sans', 'Droid Sans', Ariel, sans-serif",
-        "editor.fontSize": 14,
-        "editor.fontVariations": "tabular-nums slashed-zero historical-forms no-common-ligatures no-discretionary-ligatures no-historical-ligatures",
-        "editor.quickSuggestions": {
-            "comments": "off",
-            "strings": "off",
-            "other": "off"
-        },
-        "editor.unicodeHighlight.invisibleCharacters": true,
-        "editor.wrappingStrategy": "advanced"
+    "workbench.editor.customLabels.patterns" : {
+        "**/README.md": "${dirname} • README"
     },
-    "[markdown]": {
+    "workbench.editor.preventPinnedEditorClose": "keyboardAndMouse",
+    "[html][markdown]": {
         "editor.fontFamily": "'Noto Sans', 'Droid Sans', Ariel, sans-serif",
         "editor.fontSize": 14,
         "editor.fontVariations": "tabular-nums slashed-zero historical-forms no-common-ligatures no-discretionary-ligatures no-historical-ligatures",
