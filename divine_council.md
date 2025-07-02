@@ -52,12 +52,14 @@ aka [Deuteronomy 32](https://openbible.com/chapter/deuteronomy/32.htm) Worldview
 ### related videos
 
 - [Divine Council intro](https://nakedbiblepodcast.com/newstarthere) from <cite>The Naked Bible Podcast</cite> site [YouTube videos] <small>(<time datetime="PT2H">2:00</time>)</small>
-- ![«YouTube»](./icons/youtube.webp)YouTube playlists
+- <span class="floatstart">![«YouTube»](./icons/youtube.webp)</span>
+    YouTube playlists
     - [“Unseen Realm 101,” AWKNG School of Theology](https://www.youtube.com/playlist?list=PL9-E3d1xt1O6W7NjDlqsZ18jSOvKMxqpZ) <small>(<time datetime="PT18M">:18</time>)</small>
     - [“Supernatural Seminar: What the Bible Says About the Unseen Realm,” AWKNG School of Theology](https://www.youtube.com/playlist?list=PL9-E3d1xt1O5zI2xExz8gGUoQjvhUtN9x) <small>(<time datetime="PT4H37M">4:37</time>)</small>
     - [“Animated videos,” Dr. Heiser](https://www.youtube.com/playlist?list=PLwfjUxja_BKfwvToPOvJensysS-PEup_f) <small>(<time datetime="PT45M">:45</time>)</small>
     - [“The Unseen Realm,” Ring Them Bells](https://www.youtube.com/playlist?list=PLnVDnbbID1uLfqYYXcvVK802uKZNqiVfL)
-- [![«YouTube»](./icons/youtube.webp) “Behind ‘The Unseen’ Documentary,” Ring Them Bells](https://www.youtube.com/watch?v=qylaqBx5Xdg)
+- <span class="floatstart">![«YouTube»](./icons/youtube.webp)</span>
+    [“Behind ‘The Unseen’ Documentary,” Ring Them Bells](https://www.youtube.com/watch?v=qylaqBx5Xdg)
 
 ### related podcasts
 
@@ -85,7 +87,7 @@ by Dr. Ronn Johnson in [episode 1](https://www.youtube.com/watch?v=zXDY0OLRspU&l
 - <b class="bibleref" title="Genesis 10:1-32">Genesis 10</b> – 70 nations <span class="smaller">(72 in the Septuagint [ⅬⅩⅩ])</span>, the presumed number of members of God’s Divine Council
     - cf. <span class="bibleref" title="Exodus 24:1; Exodus 24:9">Exodus 24:1,9</span>; <span class="bibleref">Numbers 11:16</span>; <span class="bibleref">Luke 10:1</span>
 - <b class="bibleref">Leviticus 16:8-10</b>: <span class="Bible">Aaron is to cast lots over the two goats, one lot for [Yahweh] and one lot for Azazel. Aaron must then present the goat which has been designated by lot for [Yahweh], and he is to make it a sin offering, but the goat which has been designated by lot for Azazel is to be stood alive before [Yahweh] to make atonement on it by sending it away into the desert to Azazel.</span>
-    - not “scapegoat,” send the sin back to Azazel [![«YouTube»](./icons/youtube.webp)](https://www.youtube.com/watch?v=RmIVz5kodsA) … Azazel was the leader of the Watchers, see 1 Enoch quote at the bottom of this page
+    - not “scapegoat,” send the sin back to Azazel [![«YouTube»](./icons/youtube.webp)](https://www.youtube.com/watch?v=RmIVz5kodsA) … Azazel was the leader of the Watchers, see 1 Enoch quote at the bottom of this page
 - <b class="bibleref">Deuteronomy 4:19-20</b>: <span class="Bible">When you look up to the sky and see the sun, moon, and stars—the whole heavenly creation—you must not be seduced to worship and serve them, for [Yahweh] your God has assigned them to all the people of the world. You, however, [Yahweh] has selected and brought from Egypt, that iron-smelting furnace, to be his special people as you are today.</span>
 - <b class="bibleref">Deuteronomy 32:8-9</b>: <span class="Bible">When the Most High gave the nations their inheritance, when he divided up humankind, he set the boundaries of the peoples, according to the number of the heavenly assembly</span> <span class="smaller">[or “sons of God”]</span><span class="Bible">. For [Yahweh]’s allotment is his people, Jacob is his special possession.</span>
     - <span class="bibleref" title="NRSV Sirach 17:17">Sirach/​Wisdom of Ben Sira/​Ecclesiaticus 17:17</span>: He appointed a ruler for every nation, but Israel is the Lord’s own portion. (NRSV)
