@@ -90,63 +90,63 @@ h1 {
 h2 {
     color: hsla(var(--vscode-editor-foreground), 1.18);
     font-size: 1.85rem;
-    padding: 0 0.85rem;
+    padding: 0 .85rem;
 }
 
 h2 {
-    padding-inline-start: 0.85rem;
+    padding-inline-start: .85rem;
 }
 
 h3 {
     color: hsla(var(--vscode-editor-foreground), 1.15);
     font-size: 1.70rem;
-    padding: 0 0.70rem;
+    padding: 0 .70rem;
 }
 
 h3 {
-    padding-inline-start: 0.70rem;
+    padding-inline-start: .70rem;
 }
 
 h4 {
     color: hsla(var(--vscode-editor-foreground), 1.12);
     font-size: 1.55rem;
-    padding: 0 0.55rem;
+    padding: 0 .55rem;
 }
 
 h4 {
-    padding-inline-start: 0.55rem;
+    padding-inline-start: .55rem;
 }
 
 h5 {
     color: hsla(var(--vscode-editor-foreground), 1.09);
     font-size: 1.40rem;
-    padding: 0 0.40rem;
+    padding: 0 .40rem;
 }
 
 h5 {
-    padding-inline-start: 0.40rem;
+    padding-inline-start: .40rem;
 }
 
 h6 {
     color: hsla(var(--vscode-editor-foreground), 1.06);
     font-size: 1.25rem;
-    padding: 0 0.25rem;
+    padding: 0 .25rem;
 }
 
 h6 {
-    padding-inline-start: 0.25rem;
+    padding-inline-start: .25rem;
 }
 
 p b.h,
 p i.h {
     color: hsla(var(--vscode-editor-foreground), 1.03);
     font-size: 1.10rem;
-    padding: 0 0.10rem;
+    padding: 0 .10rem;
 }
 
 p b.h,
 p i.h {
-    padding-inline-start: 0.10rem;
+    padding-inline-start: .10rem;
 }
 
 blockquote {
@@ -443,22 +443,22 @@ abbr.lang {
 
 .floatstart {
     float: left;
-    margin-right: 1em;
+    margin-right: .75em;
 }
 
 .floatstart {
     float: inline-start;
-    margin-inline-end: 1em;
+    margin-inline-end: .75em;
 }
 
 .floatend {
     float: right;
-    margin-left: 1em;
+    margin-left: .75em;
 }
 
 .floatend {
     float: inline-end;
-    margin-inline-start: 1em;
+    margin-inline-start: .75em;
 }
 
 .clearl,
