@@ -441,24 +441,34 @@ abbr.lang {
     vertical-align: middle;
 }
 
+.floatlist {
+    float: left;
+    margin-right: .5em;
+}
+
+.floatlist {
+    float: inline-start;
+    margin-inline-end: .5em;
+}
+
 .floatstart {
     float: left;
-    margin-right: .75em;
+    margin-right: 1em;
 }
 
 .floatstart {
     float: inline-start;
-    margin-inline-end: .75em;
+    margin-inline-end: 1em;
 }
 
 .floatend {
     float: right;
-    margin-left: .75em;
+    margin-left: 1em;
 }
 
 .floatend {
     float: inline-end;
-    margin-inline-start: .75em;
+    margin-inline-start: 1em;
 }
 
 .clearl,

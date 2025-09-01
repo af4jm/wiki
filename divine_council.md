@@ -52,13 +52,13 @@ aka [Deuteronomy 32](https://openbible.com/chapter/deuteronomy/32.htm) Worldview
 ### related videos
 
 - [Divine Council intro](https://nakedbiblepodcast.com/newstarthere) from <cite>The Naked Bible Podcast</cite> site [YouTube videos] <small>(<time datetime="PT2H">2:00</time>)</small>
-- <span class="floatstart">![«YouTube»](./icons/youtube.webp)</span>
+- <span class="floatlist">![«YouTube»](./icons/youtube.webp)</span>
     YouTube playlists
     - [“Unseen Realm 101,” AWKNG School of Theology](https://www.youtube.com/playlist?list=PL9-E3d1xt1O6W7NjDlqsZ18jSOvKMxqpZ) <small>(<time datetime="PT18M">:18</time>)</small>
     - [“Supernatural Seminar: What the Bible Says About the Unseen Realm,” AWKNG School of Theology](https://www.youtube.com/playlist?list=PL9-E3d1xt1O5zI2xExz8gGUoQjvhUtN9x) <small>(<time datetime="PT4H37M">4:37</time>)</small>
     - [“Animated videos,” Dr. Heiser](https://www.youtube.com/playlist?list=PLwfjUxja_BKfwvToPOvJensysS-PEup_f) <small>(<time datetime="PT45M">:45</time>)</small>
     - [“The Unseen Realm,” Ring Them Bells](https://www.youtube.com/playlist?list=PLnVDnbbID1uLfqYYXcvVK802uKZNqiVfL)
-- <span class="floatstart">![«YouTube»](./icons/youtube.webp)</span>
+- <span class="floatlist">![«YouTube»](./icons/youtube.webp)</span>
     [“Behind ‘The Unseen’ Documentary,” Ring Them Bells](https://www.youtube.com/watch?v=qylaqBx5Xdg)
 
 ### related podcasts

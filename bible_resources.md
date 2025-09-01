@@ -10,7 +10,7 @@ permalink: /bible_resources/
 
 Everything on this page is 100% free, except the add-on resources link marked with \*.
 
-- <span class="floatstart">![«Logos»](./icons/logos.webp)</span>
+- <span class="floatlist">![«Logos»](./icons/logos.webp)</span>
     [Logos Bible Software (free edition – for desktop, mobile, & web)](https://www.logos.com/free-edition)
     - [BibleProject Classroom bundle (add-on resources)*](https://www.logos.com/classroom-bundle)
 - [BibleStudyTools.com](https://www.biblestudytools.com)
