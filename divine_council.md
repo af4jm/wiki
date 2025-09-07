@@ -100,7 +100,7 @@ by Dr. Ronn Johnson in [episode 1](https://www.youtube.com/watch?v=zXDY0OLRspU&l
 - <b class="bibleref">Isaiah 6:8</b>: <span class="Bible">Whom will I send? Who will go on our behalf?</span>
 - <b class="bibleref" title="Isaiah 40:1-2">Isaiah 40:1-2a</b>: <span class="Bible">***Comfort***, O ***comfort*** My people, says your God. ***Speak*** to the heart of Jerusalem; And ***call out*** to her,</span> (plural verbs)
 - <b class="bibleref" title="Psalms 82:1-8">Psalm 82</b>: the Council members are condemned for not upholding justice
-    - see also [“Psalm 82 and the gods,” AWKNG](https://awkng.com/psalm-82-and-the-gods/)
+    - see also [“Psalm 82 and the gods,” AWKNG](https://awkng.com/psalm-82-and-the-gods)
 - <b class="bibleref">Psalm 89:5-7</b>: <span class="Bible">For who in the skies can compare to [Yahweh]? Who is like [Yahweh] among the heavenly beings,</span>
 - <b class="bibleref">1 Corinthians 6:2-3</b>: <span class="Bible">Or do you not know that the holy ones will judge the world? And if the world is to be judged by you, are you not competent to settle trivial suits? Do you not know that we will judge angels? Why not ordinary matters!</span>
 
