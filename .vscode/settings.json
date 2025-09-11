@@ -3,7 +3,6 @@
     "chat.commandCenter.enabled": false,
     "chat.detectParticipant.enabled": false,
     "chat.extensionTools.enabled": false,
-    "chat.mcp.enabled": false,
     "cSpell.customDictionaries": {
         "project-words": {
             "name": "project-words",
@@ -74,7 +73,6 @@
     "markdownShortcuts.languages": [
         "markdown"
     ],
-    "peacock.color": "#509ee5",
     "search.exclude": {
         ".vscode/**": false,
         "node_modules/**": true,
@@ -126,25 +124,7 @@
             "overrides": "route"
         }
     ],
-    "workbench.colorCustomizations": {
-        "activityBar.activeBackground": "#7cb7ec",
-        "activityBar.background": "#7cb7ec",
-        "activityBar.foreground": "#15202b",
-        "activityBar.inactiveForeground": "#15202b99",
-        "activityBarBadge.background": "#df2085",
-        "activityBarBadge.foreground": "#e7e7e7",
-        "commandCenter.border": "#15202b99",
-        "sash.hoverBorder": "#7cb7ec",
-        "statusBar.background": "#509ee5",
-        "statusBar.foreground": "#15202b",
-        "statusBarItem.hoverBackground": "#2485de",
-        "statusBarItem.remoteBackground": "#509ee5",
-        "statusBarItem.remoteForeground": "#15202b",
-        "titleBar.activeBackground": "#509ee5",
-        "titleBar.activeForeground": "#15202b",
-        "titleBar.inactiveBackground": "#509ee599",
-        "titleBar.inactiveForeground": "#15202b99"
-    },
+    "window.border": "#509ee5",
     "workbench.editor.autoLockGroups": {
         "mainThreadWebview-markdown.preview": true
     },
