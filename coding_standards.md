@@ -117,7 +117,7 @@ This was written in <time>2015</time>, much of this is obsolete. ___ would be fi
 - never use the global property `undefined` to get the only value of type `undefined`, use the `void` operator instead (i.e. `void null` or `void 0`). ECMA versions 3 & 4 allow the global property to be redefined, although this redefining is disallowed by ECMA version 5, many implementations still allow it.
 - always put code inside an immediately-invoked function expression (IIFE) to avoid creating or using global variables, i.e.
 
-``` js
+```js
 (function moduleIIFE() {
     "use strict";
     var window, ___, module;
@@ -133,7 +133,7 @@ This was written in <time>2015</time>, much of this is obsolete. ___ would be fi
 - namespace code as shown with the ___ namespace in the IIFE example above
 - when declaring ASP.NET `pageLoad` and `pageUnload`, always check if it’s already defined to ensure the original functionality isn’t removed, i.e.
 
-``` js
+```js
 // this example assumes the code is inside an IIFE as shown above
 module.pageLoad = function (sender, args) {
     // code goes here
@@ -155,7 +155,7 @@ where module is the name of whatever module is defined in that script
 - OR convert the event to a jQuery event, and the problem goes away:
     - do this once in every page…
 
-``` js
+```js
 window.pageLoad = function (sender, args) {
     /// <summary>Wrap AjaxControlToolkit pageLoad in a jQuery event, so multiple handlers can be added.</summary>
     /// <param name="sender" type="Sys._Application">Application object the event is acting upon.</param>
@@ -167,7 +167,7 @@ window.pageLoad = function (sender, args) {
 
 - then implement it like this…
 
-``` js
+```js
 $(window.document).on("ajaxToolkit-pageLoad", function (event, sender, args) {
     /// <summary>AjaxControlToolkit pageLoad.</summary>
     /// <param name="event" type="jQuery.Event">jQuery event object.</param>
