@@ -3,6 +3,7 @@
     "chat.commandCenter.enabled": false,
     "chat.detectParticipant.enabled": false,
     "chat.extensionTools.enabled": false,
+    "chat.mcp.access": "none",
     "cSpell.customDictionaries": {
         "project-words": {
             "name": "project-words",
@@ -41,6 +42,7 @@
     "files.encoding": "utf8",
     "files.eol": "\r\n",
     "files.trimTrailingWhitespace": true,
+    "markdown.extension.toc.slugifyMode": "github",
     "markdown.preferredMdPathExtensionStyle": "includeExtension",
     "markdown.styles": [
         "assets\\css\\style.scss"
