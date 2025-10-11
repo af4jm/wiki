@@ -338,16 +338,6 @@ i i {
     font-style: normal;
 }
 
-:lang(hbo),
-:lang(he) {
-    font-family: 'SBL Hebrew', var(--markdown-font-family-serif) !important;
-}
-
-:lang(grc),
-:lang(el) {
-    font-family: 'SBL Greek', var(--markdown-font-family-serif) !important;
-}
-
 /* non-Latin characters: no italics, larger */
 :lang(akk),
 :lang(ara),
@@ -371,6 +361,16 @@ i i {
 :lang(uga) {
     font-style: inherit !important;
     font-size: larger;
+}
+
+:lang(hbo),
+:lang(he) {
+    font-family: 'SBL Hebrew', var(--markdown-font-family-serif) !important;
+}
+
+:lang(grc),
+:lang(el) {
+    font-family: 'SBL Greek', var(--markdown-font-family-serif) !important;
 }
 
 abbr,
