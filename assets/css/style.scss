@@ -407,6 +407,10 @@ abbr.lang {
     filter: brightness(110%);
 }
 
+sup.P {
+    font-family: var(--markdown-font-family-serif);
+}
+
 .poetry {
     text-indent: 1rem hanging each-line;
 }
