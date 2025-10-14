@@ -18,6 +18,7 @@
     --vscode-editor-foreground: #cccccc;
     --highlight-background-color: hsl(0, 0%, 8%) !important;
     --table-border-color: gray;
+    --bible-color: blanchedalmond;
 
     --external-link-color: #0077ee;
     --internal-link-color: #77b2ee;
@@ -378,10 +379,6 @@ abbr,
     filter: brightness(75%);
 }
 
-.Bible abbr {
-    filter: none !important;
-}
-
 abbr code {
     color: inherit;
 }
@@ -404,7 +401,7 @@ abbr.lang {
 
 .Bible {
     font-family: var(--markdown-font-family-serif);
-    filter: brightness(110%);
+    color: var(--bible-color);
 }
 
 sup.P {
@@ -530,7 +527,7 @@ li:has(span.floatend) + li {
 }
 
 .invert {
-    background-color: White;
+    background-color: white;
     display: block;
 }
 
