@@ -468,6 +468,7 @@ sup.P {
 
 .floatlist {
     float: left;
+    min-width: 1.33em;
     margin-right: .5em;
 }
 
@@ -488,15 +489,21 @@ sup.P {
 
 .clearl,
 li:has(span.floatstart) ul,
+li:has(span.floatlist) ul,
 li:has(span.floatstart) ol,
-li:has(span.floatstart) + li {
+li:has(span.floatlist) ol,
+li:has(span.floatstart) + li,
+li:has(span.floatlist) + li {
     clear: left;
 }
 
 .clearl,
 li:has(span.floatstart) ul,
+li:has(span.floatlist) ul,
 li:has(span.floatstart) ol,
-li:has(span.floatstart) + li {
+li:has(span.floatlist) ol,
+li:has(span.floatstart) + li,
+li:has(span.floatlist) + li {
     clear: inline-start;
 }
 
