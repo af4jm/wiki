@@ -487,22 +487,22 @@ sup.P {
 }
 
 .clearl,
-li:has(span.floatstart) ul,
-li:has(span.floatlist) ul,
-li:has(span.floatstart) ol,
-li:has(span.floatlist) ol,
-li:has(span.floatstart) + li,
-li:has(span.floatlist) + li {
+li:has(.floatstart) ul,
+li:has(.floatlist) ul,
+li:has(.floatstart) ol,
+li:has(.floatlist) ol,
+li:has(.floatstart) + li,
+li:has(.floatlist) + li {
     clear: left;
 }
 
 .clearl,
-li:has(span.floatstart) ul,
-li:has(span.floatlist) ul,
-li:has(span.floatstart) ol,
-li:has(span.floatlist) ol,
-li:has(span.floatstart) + li,
-li:has(span.floatlist) + li {
+li:has(.floatstart) ul,
+li:has(.floatlist) ul,
+li:has(.floatstart) ol,
+li:has(.floatlist) ol,
+li:has(.floatstart) + li,
+li:has(.floatlist) + li {
     clear: inline-start;
 }
 
@@ -511,16 +511,16 @@ li:has(span.floatlist) + li {
 }
 
 .clearr,
-li:has(span.floatend) ul,
-li:has(span.floatend) ol,
-li:has(span.floatend) + li {
+li:has(.floatend) ul,
+li:has(.floatend) ol,
+li:has(.floatend) + li {
     clear: right;
 }
 
 .clearr,
-li:has(span.floatend) ul,
-li:has(span.floatend) ol,
-li:has(span.floatend) + li {
+li:has(.floatend) ul,
+li:has(.floatend) ol,
+li:has(.floatend) + li {
     clear: inline-end;
 }
 
