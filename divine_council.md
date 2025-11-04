@@ -69,7 +69,7 @@ aka [Deuteronomy 32](https://openbible.com/chapter/deuteronomy/32.htm) Worldview
 
 ## What is a Divine Council Worldview?
 
-by Dr. Ronn Johnson in [episode 1](https://www.youtube.com/watch?v=zXDY0OLRspU&list=PLwfjUxja_BKcaWv3hBTWDpo0OpydSLSeq&t=1555) of the <cite>Divine Council Worldview Podcast</cite>
+by Dr. Ronn Johnson in [episode 1](https://www.youtube.com/watch?v=zXDY0OLRspU&list=PLwfjUxja_BKcaWv3hBTWDpo0OpydSLSeq&t=1555s) of the <cite>Divine Council Worldview Podcast</cite>
 
 1. The starting point for all biblical interpretation is an attempt to understand the original writer, his intended audience, and the culture they shared. This means, among many things, that all biblical study must use original languages.
 2. The cosmology of the Bible presumes a society of divine beings who were created by one deity. This single, Most High God, is named YHWH (“Yahweh”); and He exhibits eternal, unquestioned rule over all spirits and beings.
