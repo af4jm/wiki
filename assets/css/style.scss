@@ -18,7 +18,6 @@
     --vscode-editor-foreground: #cccccc;
     --highlight-background-color: hsl(0, 0%, 8%) !important;
     --table-border-color: gray;
-    --bible-color: #eeeeee;
 
     --external-link-color: #0077ee;
     --internal-link-color: #77b2ee;
@@ -79,7 +78,7 @@ p i.h {
 }
 
 h1 {
-    color: hsla(var(--vscode-editor-foreground), 1.21);
+    filter: brightness(1.21);
     font-size: 2rem;
     padding: 0 1.00rem;
 }
@@ -89,7 +88,7 @@ h1 {
 }
 
 h2 {
-    color: hsla(var(--vscode-editor-foreground), 1.18);
+    filter: brightness(1.18);
     font-size: 1.85rem;
     padding: 0 .85rem;
 }
@@ -99,7 +98,7 @@ h2 {
 }
 
 h3 {
-    color: hsla(var(--vscode-editor-foreground), 1.15);
+    filter: brightness(1.15);
     font-size: 1.70rem;
     padding: 0 .70rem;
 }
@@ -109,7 +108,7 @@ h3 {
 }
 
 h4 {
-    color: hsla(var(--vscode-editor-foreground), 1.12);
+    filter: brightness(1.12);
     font-size: 1.55rem;
     padding: 0 .55rem;
 }
@@ -119,7 +118,7 @@ h4 {
 }
 
 h5 {
-    color: hsla(var(--vscode-editor-foreground), 1.09);
+    filter: brightness(1.09);
     font-size: 1.40rem;
     padding: 0 .40rem;
 }
@@ -129,7 +128,7 @@ h5 {
 }
 
 h6 {
-    color: hsla(var(--vscode-editor-foreground), 1.06);
+    filter: brightness(1.06);
     font-size: 1.25rem;
     padding: 0 .25rem;
 }
@@ -140,7 +139,7 @@ h6 {
 
 p b.h,
 p i.h {
-    color: hsla(var(--vscode-editor-foreground), 1.03);
+    filter: brightness(1.03);
     font-size: 1.10rem;
     padding: 0 .10rem;
 }
@@ -400,7 +399,7 @@ abbr.lang {
 
 .Bible {
     font-family: var(--markdown-font-family-serif);
-    color: var(--bible-color);
+    filter: brightness(1.24);
 }
 
 sup.P {
@@ -474,6 +473,7 @@ sup.P {
     float: left;
     min-width: 1.33em;
     margin-right: .5em;
+    font-size: 1rem;
 }
 
 .floatlist {
