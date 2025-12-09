@@ -56,12 +56,10 @@ body {
 
 .withnext {
     break-after: avoid;
-    -webkit-break-after: avoid;
 }
 
 .withprev {
     break-before: avoid;
-    -webkit-break-before: avoid;
 }
 
 h1,
@@ -73,67 +71,42 @@ h6,
 p b.h,
 p i.h {
     break-after: avoid;
-    -webkit-break-after: avoid;
     page-break-after: avoid;
 }
 
 h1 {
     filter: brightness(1.21);
     font-size: 2rem;
-    padding: 0 1.00rem;
-}
-
-h1 {
     padding-inline-start: 1.00rem;
 }
 
 h2 {
     filter: brightness(1.18);
     font-size: 1.85rem;
-    padding: 0 .85rem;
-}
-
-h2 {
     padding-inline-start: .85rem;
 }
 
 h3 {
     filter: brightness(1.15);
     font-size: 1.70rem;
-    padding: 0 .70rem;
-}
-
-h3 {
     padding-inline-start: .70rem;
 }
 
 h4 {
     filter: brightness(1.12);
     font-size: 1.55rem;
-    padding: 0 .55rem;
-}
-
-h4 {
     padding-inline-start: .55rem;
 }
 
 h5 {
     filter: brightness(1.09);
     font-size: 1.40rem;
-    padding: 0 .40rem;
-}
-
-h5 {
     padding-inline-start: .40rem;
 }
 
 h6 {
     filter: brightness(1.06);
     font-size: 1.25rem;
-    padding: 0 .25rem;
-}
-
-h6 {
     padding-inline-start: .25rem;
 }
 
@@ -141,22 +114,12 @@ p b.h,
 p i.h {
     filter: brightness(1.03);
     font-size: 1.10rem;
-    padding: 0 .10rem;
-}
-
-p b.h,
-p i.h {
     padding-inline-start: .10rem;
 }
 
 blockquote {
     background-color: var(--highlight-background-color);
     border-color: var(--highlight-background-color);
-}
-
-pre,
-code {
-    text-align: left;
 }
 
 pre,
@@ -431,19 +394,11 @@ sup.P {
 }
 
 .left {
-    text-align: left;
-}
-
-.left {
     text-align: start;
 }
 
 .center {
     text-align: center;
-}
-
-.right {
-    text-align: right;
 }
 
 .right {
@@ -460,30 +415,15 @@ sup.P {
 }
 
 .floatstart {
-    float: left;
-    margin-right: 1em;
-}
-
-.floatstart {
     float: inline-start;
     margin-inline-end: 1em;
 }
 
 .floatlist {
-    float: left;
-    min-width: 1.33em;
-    margin-right: .5em;
-    font-size: 1rem;
-}
-
-.floatlist {
     float: inline-start;
-    margin-inline-end: .5em;
-}
-
-.floatend {
-    float: right;
-    margin-left: 1em;
+    min-width: 1.33em;
+    margin-inline-end: 1em;
+    font-size: 1rem;
 }
 
 .floatend {
@@ -498,28 +438,11 @@ li:has(.floatstart) ol,
 li:has(.floatlist) ol,
 li:has(.floatstart) + li,
 li:has(.floatlist) + li {
-    clear: left;
-}
-
-.clearl,
-li:has(.floatstart) ul,
-li:has(.floatlist) ul,
-li:has(.floatstart) ol,
-li:has(.floatlist) ol,
-li:has(.floatstart) + li,
-li:has(.floatlist) + li {
     clear: inline-start;
 }
 
 .clear {
     clear: both;
-}
-
-.clearr,
-li:has(.floatend) ul,
-li:has(.floatend) ol,
-li:has(.floatend) + li {
-    clear: right;
 }
 
 .clearr,
