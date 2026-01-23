@@ -1,9 +1,4 @@
 {
-    "chat.agent.enabled": false,
-    "chat.commandCenter.enabled": false,
-    "chat.detectParticipant.enabled": false,
-    "chat.extensionTools.enabled": false,
-    "chat.mcp.access": "none",
     "cSpell.customDictionaries": {
         "project-words": {
             "name": "project-words",
