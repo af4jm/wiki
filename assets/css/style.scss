@@ -265,6 +265,8 @@ a[href^="https://ref.ly/"] {
     font-weight: bold;
 }
 
+dfn,
+var,
 .italic {
     font-style: italic;
 }
@@ -274,30 +276,54 @@ cite.bibleref {
 }
 
 /* italics inside of italics should not be italicized */
+*[lang] > .italic,
 *[lang] > cite,
 *[lang] > dfn,
 *[lang] > em,
 *[lang] > i,
+*[lang] > var,
+.italic > *[lang],
+.italic .italic,
+.italic cite,
+.italic dfn,
+.italic em,
+.italic i,
+.italic var,
 cite > *[lang],
+cite .italic,
 cite cite,
 cite dfn,
 cite em,
 cite i,
+cite var,
 dfn > *[lang],
+dfn .italic,
 dfn cite,
 dfn dfn,
 dfn em,
 dfn i,
+dfn var,
 em > *[lang],
+em .italic,
 em cite,
 em dfn,
 em em,
 em i,
+em var,
 i > *[lang],
+i .italic,
 i cite,
 i dfn,
 i em,
-i i {
+i i,
+i var,
+var > *[lang],
+var .italic,
+var cite,
+var dfn,
+var em,
+var i,
+var var {
     font-style: normal;
 }
 
@@ -355,7 +381,6 @@ code,
 kbd,
 pre,
 samp,
-var,
 abbr.lang {
     font-family: var(--markdown-font-family-mono);
 }
