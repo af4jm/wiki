@@ -30,7 +30,7 @@ This was written in <time>2015</time>, much of this is obsolete. ___ would be fi
 - avoid referencing private member fields, instead reference the property which is wrapping the field
 - if a field is set on class initialization and should never be reset, always mark it as `readonly`
 - avoid multiple `out` parameters, create an object instead (in SQL, use an additional result set)
-- avoid magic numbers/<wbr/>strings, prefer the configuration file, the database, a static class or module of constants, or an enumeration as appropriate
+- avoid magic numbers/<wbr>strings, prefer the configuration file, the database, a static class or module of constants, or an enumeration as appropriate
 - never use deprecated or obsolete methods, as they may disappear or error in the future
 - never check in code that doesn’t compile without warnings
 - never check in code that hasn’t been exercised
@@ -42,7 +42,7 @@ This was written in <time>2015</time>, much of this is obsolete. ___ would be fi
 - if you need to catch an exception and throw an exception of a different type, always set `InnerException` to the original exception
 - never optimize for performance without documenting the bottleneck, with optimizing compilers the bottleneck is probably not where you think it is
 - when commenting out the entire body of a code block, comment the entire block (i.e. don’t leave an empty if)… unless you know you’re going to need it again soon, delete it instead as it can be retrieved from source control if necessary
-- always use PascalCasing for naming assemblies, .NET code files, namespaces, classes/<wbr/>structures, methods/<wbr/>functions, properties, and events, and all SQL database objects (tables, procedures, etc.); always use camelCasing for all JavaScript file and object names, and in .NET and SQL for fields, parameters, and local variables; never use Hungarian notation, except…
+- always use PascalCasing for naming assemblies, .NET code files, namespaces, classes/<wbr>structures, methods/<wbr>functions, properties, and events, and all SQL database objects (tables, procedures, etc.); always use camelCasing for all JavaScript file and object names, and in .NET and SQL for fields, parameters, and local variables; never use Hungarian notation, except…
     - `I` for interfaces
     - `v` for database views which are not updatable
     - JavaScript constructors, intended to be called with `new`, should be PascalCased
@@ -56,7 +56,7 @@ This was written in <time>2015</time>, much of this is obsolete. ___ would be fi
     - in the NuGet packages folder, only check in the root packages file, but none of the packages. Set the solution so the packages are downloaded upon build.
     - exception: in a web site, `.refresh` files must be checked in since there is no project file, and they live in the `bin` folder
 - avoid checking in code that contains tabs, set your IDE to use spaces (preferably 4) instead
-- avoid checking in code with `// TODO:` comments, checked in code should be “done”/<wbr/>production-ready
+- avoid checking in code with `// TODO:` comments, checked in code should be “done”/<wbr>production-ready
 - avoid checking in code with large blocks commented out, if the code is no longer needed remove it, it can be retrieved from source control history if it winds up being needed again at a later date
 
 ## Visual Studio
@@ -83,7 +83,7 @@ This was written in <time>2015</time>, much of this is obsolete. ___ would be fi
 
 ## SQL
 
-- never EVER concatenate/<wbr/>format/<wbr/>etc. user input into a SQL string and execute it. Always pass user input to the database as a parameter. This also includes any values that ever were user input, not just the first time. (XKCD [Bobby “Tables”](https://xkcd.com/327))
+- never EVER concatenate/<wbr>format/<wbr>etc. user input into a SQL string and execute it. Always pass user input to the database as a parameter. This also includes any values that ever were user input, not just the first time. (XKCD [Bobby “Tables”](https://xkcd.com/327))
 - when referencing database objects, always specify the schema, never assume all users in the system will have `dbo` as their default schema, this can also cause plan cache bloat as different users can get different query plans
 - when using indexed views, always use query hint `WITH (NOEXPAND)` on the view, as without that hint, lower editions of SQL Server will ignore the indices and do a table scan
 - avoid dynamic SQL when possible, but if it’s unavoidable always invoke it with `EXEC sys.sp_executesql @sql;` never with `EXEC(@sql);`
@@ -113,7 +113,7 @@ This was written in <time>2015</time>, much of this is obsolete. ___ would be fi
 ## JavaScript
 
 - always use semicolons, never rely on Automatic Semicolon Insertion, which may not always insert semicolons where you think
-- for equality comparisons, always use `===` and `!==`, never use `==` and `!=`, the former compare type and value, the later type casts one of the objects to the type of the other, often changing the value (or at least the trueness/<wbr/>falseness of the value) in the process
+- for equality comparisons, always use `===` and `!==`, never use `==` and `!=`, the former compare type and value, the later type casts one of the objects to the type of the other, often changing the value (or at least the trueness/<wbr>falseness of the value) in the process
 - never use the global property `undefined` to get the only value of type `undefined`, use the `void` operator instead (i.e. `void null` or `void 0`). ECMA versions 3 & 4 allow the global property to be redefined, although this redefining is disallowed by ECMA version 5, many implementations still allow it.
 - always put code inside an immediately-invoked function expression (IIFE) to avoid creating or using global variables, i.e.
 

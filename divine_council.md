@@ -75,7 +75,7 @@ by Dr. Ronn Johnson in [episode 1](https://www.youtube.com/watch?v=zXDY0OLRspU&l
 2. The cosmology of the Bible presumes a society of divine beings who were created by one deity. This single, Most High God, is named YHWH (“Yahweh”); and He exhibits eternal, unquestioned rule over all spirits and beings.
 3. At an early point within the biblical story, Yahweh delegated authoritative power to a number of created deities over the physical world (nations, etc.). Judgement is yet promised upon a number of these beings for their misuse of this authority.
 4. Jesus Christ has presently assumed, by the decree of Yahweh, the place of highest honor over all gods and humans.
-5. The locus of the Gospel message throughout Acts and Paul’s epistles is loyalty to Jesus/<wbr/>Yahweh above all other gods.
+5. The locus of the Gospel message throughout Acts and Paul’s epistles is loyalty to Jesus/<wbr>Yahweh above all other gods.
 6. In the next age, believers will assume the status of divineness, a position which will rival, possibly replace, the ruling gods of this present age.
 
 ## key Bible verses (Bible quotes BSB, except *)
