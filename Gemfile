@@ -33,6 +33,7 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 # dependabot
-gem "nokogiri", ">= 1.18.9"
+gem "faraday", ">= 2.14.1"
+gem "nokogiri", ">= 1.19.1"
 gem "rexml", ">= 3.3.9"
 gem "uri", ">= 0.13.3"
