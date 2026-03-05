@@ -440,18 +440,23 @@ sup.P {
 
 .floatstart {
     float: inline-start;
+    text-align: start;
     margin-inline-end: 1em;
 }
 
 .floatlist {
     float: inline-start;
+    text-align: start;
     min-width: 1.33em;
     margin-inline-end: 1em;
     font-size: 1rem;
+    line-height: 1.5;
+    filter: none;
 }
 
 .floatend {
     float: inline-end;
+    text-align: end;
     margin-inline-start: 1em;
 }
 
