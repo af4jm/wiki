@@ -12,7 +12,7 @@ Everything on this page is 100% free, except the add-on resources link marked wi
 
 - <span class="floatlist">![«Logos»](./icons/logos.webp)</span>
     [Logos Bible Software (free edition – for desktop, mobile, & web)](https://www.logos.com/free-edition)
-    - [BibleProject Classroom bundle (add-on resources)*](https://www.logos.com/classroom-bundle)
+    - [BibleProject™ Classroom bundle (add-on resources)*](https://www.logos.com/classroom-bundle)
 - [BibleStudyTools.com](https://www.biblestudytools.com)
 - [Blue Letter Bible](https://www.blueletterbible.org)
 
@@ -34,10 +34,10 @@ Everything on this page is 100% free, except the add-on resources link marked wi
 - [<cite>The Bible (Unmuted)</cite>](https://podcasters.spotify.com/pod/show/the-bible-unmuted) ([Dr. Matthew Halsted](https://matthewhalsted.com))
 - [<cite>Bible Backgrounds</cite>](https://www.spreaker.com/podcast/bible-backgrounds--5432498) ([Dr. Craig Keener](https://craigkeener.com))
 - [<cite>Ask a Scholar</cite>](https://awkng.com/podcast) (Karla Adcox & Mike Chu, AWKNG)
-- [<cite>BibleProject Podcast</cite>](https://bibleproject.com/podcasts/the-bible-project-podcast) (Dr. Tim Mackie & Jon Collins)
+- [<cite>BibleProject™ Podcast</cite>](https://bibleproject.com/podcasts/the-bible-project-podcast) (Dr. Tim Mackie & Jon Collins)
 
 ## free online courses
 
 - [AWKNG (Awakening School of Theology)](https://awkng.com/online-bible-study-courses)
 - [Biblical Training](https://www.biblicaltraining.org)
-- [BibleProject Classroom](https://bibleproject.com/classroom)
+- [BibleProject™ Classroom](https://bibleproject.com/classroom)
