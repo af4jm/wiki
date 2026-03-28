@@ -251,7 +251,8 @@ a[href^="#"] {
     color: var(--internal-link-color);
 }
 
-a[href^="https://ref.ly/"] {
+a[href^="https://ref.ly/"],
+.logos {
     color: var(--logos-link-color);
 }
 
