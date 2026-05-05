@@ -1,6 +1,7 @@
 ---
 title: vintage cook books
 permalink: /vintage_cook_books/
+short_link: https://tinyurl.com/vintagecook
 
 ---
 
