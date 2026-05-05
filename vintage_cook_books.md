@@ -21,8 +21,6 @@ permalink: /vintage_cook_books/
 - <span class="floatlist">![«Internet Archive»](./icons/archive.webp)</span>
     [<cite>Good Housekeeping’s Book of Good Meals</cite>](https://archive.org/details/goodhousekeeping0000kath) (<time>1927</time>)
 - <span class="floatlist">![«Internet Archive»](./icons/archive.webp)</span>
-    [<cite>The Art of Cooking and Serving</cite>, Sarah Field Splint](https://archive.org/details/artofcookingserv00spli) (<time>1927</time>)
-- <span class="floatlist">![«Internet Archive»](./icons/archive.webp)</span>
     [<cite>The Little House Cookbook: Frontier Foods from Laura Ingalls Wilder’s Classic Stories</cite>, Barbara M. Walker](https://archive.org/details/littlehousecookb00walk) (<time>1979</time>) *️⃣
 - <span class="floatlist">![«Internet Archive»](./icons/archive.webp)</span>
     [<cite>The Ball Blue Book</cite>](https://archive.org/details/ballbluebookguid00ball) (<time>1979</time>) *️⃣
