@@ -32,4 +32,4 @@ permalink: /vintage_cook_books/
     - <span class="floatlist">*️⃣</span>
         <small>“reg-ware” (requires free registration to check out the ebook from their library)</small>
 
-to search for more books, go to [Internet Archive](https://archive.org/) and use the main search box (not the one labelled “WayBack Machine”), or add `site:archive.org` to a [Google](https://www.google.com/) search
+search for more books at [Internet Archive Books](https://archive.org/details/internetarchivebooks) (or add `site:archive.org` to a [Google](https://www.google.com/) search)
