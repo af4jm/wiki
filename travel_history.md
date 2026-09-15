@@ -14,7 +14,7 @@ permalink: /travel_history/
     Bahamas [BHS]
 3. <span class="floatlist">🇸🇻</span>
     El Salvador [SLV]
-    <small>(my wife’s was born & raised here)</small>
+    <small>(where my wife’s was born & raised)</small>
 4. <span class="floatlist">🇬🇹</span>
     Guatemala [GTM]
 5. <span class="floatlist">🇸🇽</span>
