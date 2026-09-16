@@ -8,11 +8,11 @@ permalink: /bible_resources/
 
 # free Bible resources
 
-Everything on this page is 100% free, except the add-on resources link marked with \*.
+Everything on this page is 100% free, except the add-on resources link marked with \* & the last section, labelled “not free, but…”
 
 - <span class="floatlist">![«Logos»](./icons/logos.webp)</span>
     [Logos Bible Software (free edition – for desktop, mobile, & web)](https://www.logos.com/free-edition)
-    - [BibleProject™ Classroom bundle (add-on resources)*](https://www.logos.com/classroom-bundle)
+    - [BibleProject™ Classroom bundle (add-on resources)](https://www.logos.com/classroom-bundle)\*
 - [BibleStudyTools.com](https://www.biblestudytools.com)
 - [Blue Letter Bible](https://www.blueletterbible.org)
 
@@ -41,3 +41,12 @@ Everything on this page is 100% free, except the add-on resources link marked wi
 - [AWKNG (Awakening School of Theology)](https://awkng.com/online-bible-study-courses)
 - [Biblical Training](https://www.biblicaltraining.org)
 - [BibleProject™ Classroom](https://bibleproject.com/classroom)
+
+***
+
+## not free, but highly recommended
+
+if you're going to spend money for additional resources to help with Bible study, these are a **very** good place to start (available on Kindle, Logos, etc.)
+
+- <cite>Dictionary of Deities and Demons in the Bible (DDD), Second Edition</cite>; Karel van der Toorn, Bob Becking, Pieter W. van der Horst (editors)
+- <cite>Dictionary of Biblical Imagery</cite>; Leland Ryken, James C. Wilhoit Tremper Longman Ⅲ (general editors) [included in the Logos BibleProject™ Classroom bundle linked above]
