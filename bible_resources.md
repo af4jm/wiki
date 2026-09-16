@@ -46,7 +46,9 @@ Everything on this page is 100% free, except the add-on resources link marked wi
 
 ## not free, but highly recommended
 
-if you're going to spend money for additional resources to help with Bible study, these are a **very** good place to start (available on Kindle, Logos, etc.)
+If you're going to spend money for additional resources to help with Bible study, these are a **very** good place to start.
+
+If you use a Bible software, e.g. Logos, you’ll want any references you buy to be in that platform for ease of cross-reference, but these are also available on most ebook platforms, e.g. Kindle.
 
 - <cite>Dictionary of Deities and Demons in the Bible (DDD), Second Edition</cite>; Karel van der Toorn, Bob Becking, Pieter W. van der Horst (editors)
 - <cite>Dictionary of Biblical Imagery</cite>; Leland Ryken, James C. Wilhoit Tremper Longman Ⅲ (general editors) [included in the Logos BibleProject™ Classroom bundle linked above]
