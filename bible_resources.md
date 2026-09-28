@@ -27,7 +27,7 @@ Everything on this page is 100% free, except the add-on resources link marked wi
 
 <!-- -->
 
-- [Greek interlinear (NT only)](https://bible.xojocloud.net)
+- [Greek interlinear (NT only)](https://billmounce.com/InterlinearBible)
 
 ## recommended podcasts
 
