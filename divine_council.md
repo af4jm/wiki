@@ -116,4 +116,4 @@ by Dr. Ronn Johnson in [episode 1](https://www.youtube.com/watch?v=zXDY0OLRspU&l
 
 <b>8</b> <sup>1</sup> And Azazel taught men to make swords, and knives, and shields, and breastplates, and made known to them the metals of the earth and the art of working them, and bracelets, and ornaments, and the use of antimony, and the beautifying of the eyelids, and all kinds of costly stones, and all coloring tinctures. <sup>2</sup> And there arose much godlessness, and they committed fornication, and they were led astray, and became corrupt in all their ways. <sup>3</sup> Samyaza taught enchantments, and root-cuttings, Armaros the resolving of enchantments, Baraqiel astrology, Kokabiel the constellations, Chazaqiel the knowledge of the clouds, Arakiel the signs of the earth, Shamsiel the signs of the sun, and Sariel the course of the moon. <sup>4</sup> And as men perished, they cried, and their cry went up to heaven …
 
-<script src='https://biblemapper.com/passagebrowser/reference-mapper.js'></script>
+<!-- <script src='https://biblemapper.com/passagebrowser/reference-mapper.js'></script> -->
