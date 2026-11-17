@@ -33,11 +33,11 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 # dependabot
-gem "activesupport", ">= 7.2.3.1"
-gem "addressable", ">= 2.9.0"
+gem "activesupport", ">= 8.0.5.2"
+gem "addressable", ">= 2.9.1"
 gem "concurrent-ruby", ">= 1.3.7"
 gem "faraday", ">= 2.14.3"
-gem "nokogiri", ">= 1.19.4"
+gem "nokogiri", ">= 1.19.5"
 gem "rexml", ">= 3.3.9"
 gem "rubyzip", ">= 3.4.0"
 gem "uri", ">= 0.13.3"
